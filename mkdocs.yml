@@ -1,0 +1,50 @@
+site_name: "CCO"
+repo_url: https://github.com/CommonCoreOntology/cco-github.io
+site_description: CCO Homepage
+site_author: John Beverley
+edit_uri: '?query=root/cco-github.io/docs/'
+
+theme:
+  name: material
+  logo: assets/cco-logo.png
+  palette:
+    primary: black
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.integrate
+  hide:
+    - toc
+
+extra_css:
+  - stylesheets/extra.css
+  
+nav:
+  - About: 
+    - Mission: index.md
+    - Board of Directors: board.md
+    - Affiliate Members: affiliates.md
+    - Users: users.md
+    - CCO FAQ: cco-faq.md
+  - Sponsors: sponsors.md
+  - Support: 
+    - Office Hours: office-hours.md
+    - Design Patterns: design-patterns.md
+  - Volunteer: 
+    - Working Groups: working-groups.md
+  - News: 
+    - Blog: blog.md
+    - Community Awards: award.md
+    - Discussion Board: discussion.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAAApbuYB2XIdgO4B_zTBN4RKTGW0OqEylxg&keywords=barry%20smith&origin=RICH_QUERY_SUGGESTION&position=0&searchId=4c7bf265-d8f5-4954-8829-71ac1ab78134&sid=6!x&spellCorrectionEnabled=false
+    - icon: fontawesome/brands/github
+      link: https://github.com/CommonCoreOntology/CommonCoreOntologies
+    - icon: octicons/mail-16
+      link: mailto:johnbeve@buffalo.edu
+
+markdown_extensions:
+    - attr_list
