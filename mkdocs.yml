@@ -1,8 +1,8 @@
 site_name: "CCO"
-repo_url: https://github.com/CommonCoreOntology/cco-github.io
+repo_url: https://commoncoreontology.github.io/cco-webpage/
 site_description: CCO Homepage
 site_author: John Beverley
-edit_uri: '?query=root/cco-github.io/docs/'
+edit_uri: '?query=root/cco-webpage/docs/'
 
 theme:
   name: material
