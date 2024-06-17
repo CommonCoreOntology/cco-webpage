@@ -72,6 +72,7 @@
         <li>Ensuring that CCO is responsive to the needs of U.S. Government stakeholders</li>
     </ul>
 
+<div class="divider" style="width: 100%; height: 2px; background-color: #333; margin: 5px 20;"></div>
 
 <p style="font-size:25px"><center><b>CCO Board of Directors</b></center></p>
 <div class="grid-container">
@@ -104,6 +105,9 @@
         <div class="grid-item-content">
             <h3><a href="http://ontology.buffalo.edu/smith/">Barry Smith</a></h3>
     </div>
+    <div class="grid-item">
+        <div class="grid-item-content">
+    </div>
 </div>
 
 <div class="divider" style="width: 100%; height: 2px; background-color: #333; margin: 5px 20;"></div>
@@ -116,23 +120,23 @@
         <div class="grid-item-content">
             <h3><a href="//creativecommons.org/about/program-areas/open-science">Alan Ruttenberg</a></h3>
         </div>
-<div class="grid-item">
-        <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2023/10/Screenshot-2023-10-16-at-12.01.57-AM.png" alt="Cameron More" width="200" height="200">
-        <div class="grid-item-content">
-            <h3><a href="https://www.linkedin.com/in/cameron-more/">Cameron More</a></h3>
+    <div class="grid-item">
+            <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2023/10/Screenshot-2023-10-16-at-12.01.57-AM.png" alt="Cameron More" width="200" height="200">
+            <div class="grid-item-content">
+                <h3><a href="https://www.linkedin.com/in/cameron-more/">Cameron More</a></h3>
+            </div>
         </div>
-    </div>
-<div class="grid-item">
-        <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Ron-Rudnicki-300x300.jpg" alt="Ron Rudnicki">
-        <div class="grid-item-content">
-            <h3><a href="https://www.linkedin.com/in/ron-rudnicki-957b004/">Ron Rudnicki</a></h3>
+    <div class="grid-item">
+            <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Ron-Rudnicki-300x300.jpg" alt="Ron Rudnicki">
+            <div class="grid-item-content">
+                <h3><a href="https://www.linkedin.com/in/ron-rudnicki-957b004/">Ron Rudnicki</a></h3>
+            </div>
         </div>
-    </div>
-<div class="grid-item">
-        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/olivia.png" alt="Olivia Hobai" width="200" height="200">
-        <div class="grid-item-content">
-            <h3><a href="https://www.researchgate.net/profile/Olivia-Hobai">Olivia Hobai</a></h3>
+    <div class="grid-item">
+            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/olivia.png" alt="Olivia Hobai" width="200" height="200">
+            <div class="grid-item-content">
+                <h3><a href="https://www.researchgate.net/profile/Olivia-Hobai">Olivia Hobai</a></h3>
+            </div>
         </div>
-    </div>
 </body>
 </html>

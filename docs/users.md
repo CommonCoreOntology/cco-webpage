@@ -30,100 +30,114 @@
         </thead>
         <tbody>
             <tr>
-                <td><a href="#">Aditive Manufacturing Ontology</a></td>
-                <td>Designed to represent the concepts and relationships specific to additive manufacturing processes.</td>
+                <td><a href="https://matportal.org/ontologies/AMONTOLOGY">Aditive Manufacturing Ontology</a></td>
+                <td>AMOntology describes entities that capture knowledge about characteristics of computational models for AM processes.</td>
             </tr>
             <tr>
-                <td><a href="#">BWMD Domain Ontology</a></td>
+                <td><a href="https://matportal.org/ontologies/BWMD-DOMAIN">BWMD Domain Ontology</a></td>
                 <td>Represents domain-specific information for BWMD applications.</td>
             </tr>
             <tr>
-                <td><a href="#">BWMD Mid Level Ontology</a></td>
+                <td><a href="https://matportal.org/ontologies/BWMD-MID">BWMD Mid Level Ontology</a></td>
                 <td>A mid-level ontology for BWMD applications.</td>
             </tr>
             <tr>
-                <td><a href="#">BWMD original non modularized ontology</a></td>
+                <td><a href="https://matportal.org/ontologies/BWMD">BWMD original non modularized ontology</a></td>
                 <td>The original, non-modularized version of the BWMD ontology.</td>
             </tr>
             <tr>
-                <td><a href="#">Devices, Experimental scaffolds and Biomaterials Ontology</a></td>
-                <td>Represents information about devices, experimental scaffolds, and biomaterials.</td>
+                <td><a href="https://github.com/CommonCoreOntology/TowardsACyberInformationOntology">Cyber Information Ontology</a></td>
+                <td>Represents cyber information, reliability, warrant, and transmission protocols.</td>
             </tr>
             <tr>
-                <td><a href="#">European Materials Modelling Ontology</a></td>
+                <td><a href="https://matportal.org/ontologies/DEB">Devices, Experimental scaffolds and Biomaterials Ontology</a></td>
+                <td>Represents information about devices, experimental scaffolds, and biomaterials.</td>
+            </tr>
+            <td><a href="https://arxiv.org/pdf/2405.00960v1">Digital Twin Ontology</a></td>
+                <td>BFO and CCO-based foundation for digital twin phenomena.</td>
+            </tr>
+            <tr>
+                <td><a href="https://matportal.org/ontologies/EMMO">European Materials Modelling Ontology</a></td>
                 <td>Represents concepts and relationships in European materials modeling.</td>
             </tr>
             <tr>
-                <td><a href="#">Laser Powder Bed Fusion Ontology</a></td>
+                <td><a href="https://github.com/iofoundry/ontology">Industrial Ontology Core</a></td>
+                <td>Represents mid-level terms for industrial manufacturing and services.</td>
+            </tr>
+            <tr>
+                <td><a href="https://matportal.org/ontologies/LPBFO">Laser Powder Bed Fusion Ontology</a></td>
                 <td>Represents processes and concepts specific to laser powder bed fusion technology.</td>
             </tr>
             <tr>
-                <td><a href="#">Mat-O-Lab container ontology</a></td>
+                <td><a href="https://matportal.org/ontologies/MOCO">Mat-O-Lab container ontology</a></td>
                 <td>Represents container-specific information in Mat-O-Lab applications.</td>
             </tr>
             <tr>
-                <td><a href="#">Material Properties Annotation properties including Dublin Core</a></td>
+                <td><a href="https://matportal.org/ontologies/MP-SCHM">Material Properties Annotation properties including Dublin Core</a></td>
                 <td>Annotation properties for material properties, including those from Dublin Core.</td>
             </tr>
             <tr>
-                <td><a href="#">Material Science and Engineering Ontology</a></td>
+                <td><a href="https://matportal.org/ontologies/MSEO">Material Science and Engineering Ontology</a></td>
                 <td>A comprehensive ontology for material science and engineering.</td>
             </tr>
             <tr>
-                <td><a href="#">Materials And Molecules Basic Ontology</a></td>
+                <td><a href="https://matportal.org/ontologies/MAMBO">Materials And Molecules Basic Ontology</a></td>
                 <td>Represents basic concepts and relationships in materials and molecules.</td>
             </tr>
             <tr>
-                <td><a href="#">Materials Data Science Ontology</a></td>
+                <td><a href="https://matportal.org/ontologies/MDS">Materials Data Science Ontology</a></td>
                 <td>Represents concepts and relationships specific to materials data science.</td>
             </tr>
             <tr>
-                <td><a href="#">Materials Data Vocabulary</a></td>
+                <td><a href="https://matportal.org/ontologies/NMRRVOCAB">Materials Data Vocabulary</a></td>
                 <td>Vocabulary for materials data.</td>
             </tr>
             <tr>
-                <td><a href="#">Materials Design Ontology</a></td>
+                <td><a href="https://matportal.org/ontologies/MDO-FULL">Materials Design Ontology</a></td>
                 <td>Represents concepts and relationships in materials design.</td>
             </tr>
             <tr>
-                <td><a href="#">Materials-Mechanics-Ontology</a></td>
+                <td><a href="https://matportal.org/ontologies/MECH">Materials-Mechanics-Ontology</a></td>
                 <td>Represents concepts and relationships in the mechanics of materials.</td>
             </tr>
             <tr>
-                <td><a href="#">MaterialsMine</a></td>
+                <td><a href="https://matportal.org/ontologies/MM">Materials Mine</a></td>
                 <td>A repository of materials data and related ontologies.</td>
             </tr>
             <tr>
-                <td><a href="#">MatoLab Brinell Test Ontology</a></td>
+                <td><a href="https://matportal.org/ontologies/MOL_BRINELL">MatoLab Brinell Test Ontology</a></td>
                 <td>Represents information specific to Brinell hardness tests in Mat-O-Lab applications.</td>
             </tr>
             <tr>
-                <td><a href="#">Matolab Tensile Test Ontology</a></td>
+                <td><a href="https://matportal.org/ontologies/MOL_TENSILE">Matolab Tensile Test Ontology</a></td>
                 <td>Represents information specific to tensile tests in Mat-O-Lab applications.</td>
             </tr>
             <tr>
-                <td><a href="#">MatOnto Ontology</a></td>
+                <td><a href="https://matportal.org/ontologies/MATONTO">MatOnto Ontology</a></td>
                 <td>Represents comprehensive concepts in material ontology.</td>
             </tr>
             <tr>
-                <td><a href="#">Mechanical testing ontology</a></td>
+                <td><a href="https://matportal.org/ontologies/MTO">Mechanical testing ontology</a></td>
                 <td>Represents concepts and processes in mechanical testing.</td>
             </tr>
             <tr>
-                <td><a href="#">The MatWerk ontology</a></td>
+                <td><a href="https://matportal.org/ontologies/MWO">The MatWerk ontology</a></td>
                 <td>Represents comprehensive concepts in material work.</td>
             </tr>
             <tr>
-                <td><a href="#">The PMD Core Ontology</a></td>
+                <td><a href="https://matportal.org/ontologies/PMDCO">The PMD Core Ontology</a></td>
                 <td>Core ontology for PMD applications.</td>
             </tr>
             <tr>
-                <td><a href="#">Thin-film solar cell ontology</a></td>
+                <td><a href="https://matportal.org/ontologies/TFSCO">Thin-film solar cell ontology</a></td>
                 <td>Represents concepts and relationships in thin-film solar cell technology.</td>
             </tr>
             <tr>
-                <td><a href="#">Virtual Materials Marketplace (VIMMP) Ontologies</a></td>
+                <td><a href="https://matportal.org/ontologies/VIMMP_ONTOLOGIES">Virtual Materials Marketplace (VIMMP) Ontologies</a></td>
                 <td>Represents comprehensive concepts and relationships in the virtual materials marketplace.</td>
+            </tr>
+            <td><a href="https://bioportal.bioontology.org/ontologies/VIDO">Virus Infectious Disease Ontology</a></td>
+                <td>Represents epidemiology, classification, pathogenesis, and treatment of terms used by virologists, i.e. virus, prion, satellite, viroid, etc.</td>
             </tr>
         </tbody>
     </table>

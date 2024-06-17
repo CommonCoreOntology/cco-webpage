@@ -73,7 +73,7 @@
     <div class="row">
         <div class="image">
             <a href="https://ontology-br.com.br/about/">
-                <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/ncor-logo.png" alt="NCOR">
+                <img src="https://raw.githubusercontent.com/CommonCoreOntology/cco-webpage/main/docs/assets/logos/ncor-logo.png" alt="NCOR">
             </a>
         </div>
         <div class="image">
