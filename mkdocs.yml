@@ -27,11 +27,11 @@ nav:
     #- CCO FAQ: cco-faq.md
   - Support: 
     - Office Hours: office-hours.md
-    - Design Patterns: 
-      - Geospatial Tracking: geospatial-tracking.md
-      - Information Model: information.md 
-      - Stasis: stasis.md
-  - Working Groups: working-groups.md
+    - Working Groups: working-groups.md
+  - Design Patterns: 
+    - Geospatial Tracking: geospatial-tracking.md
+    - Information Model: information.md 
+    - Stasis: stasis.md
 
 extra:
   social:
