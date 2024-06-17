@@ -6,7 +6,7 @@ edit_uri: '?query=root/cco-github.io/docs/'
 
 theme:
   name: material
-  logo: assets/cco-logo.png
+  logo: assets/logos/BFO-CCO.png
   palette:
     primary: black
   features:
