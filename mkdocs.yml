@@ -1,5 +1,5 @@
 site_name: "CCO"
-repo_url: https://commoncoreontology.github.io/cco-webpage/
+repo_url: https://github.com/CommonCoreOntology/cco-webpage
 site_description: CCO Homepage
 site_author: John Beverley
 edit_uri: '?query=root/cco-webpage/docs/'
