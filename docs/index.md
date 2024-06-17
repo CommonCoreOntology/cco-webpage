@@ -4,26 +4,83 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>National Center for Ontological Research</title>
+        <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+    </style>
 </head>
 <body>
-    <h1>National Center for Ontological Research (NCOR)</h1>
-    <p>The <a href="https://www.buffalo.edu/ncor.html" target="_blank">National Center for Ontological Research (NCOR)</a> was established in Buffalo in 2005 by <a href="https://ontology.buffalo.edu/smith/" target="_blank">Barry Smith</a> with the goal of advancing the quality of ontological research and development and of establishing tools and measures for ontology evaluation and quality assurance. NCOR draws on the expertise of ontologists associated with the <a href="https://www.buffalo.edu/" target="_blank">University at Buffalo</a> and of their collaborators in scientific, commercial, and government institutions throughout the world.</p>
+    <h1>Common Core Ontoloies (CCO)</h1>
+    <p>The <a href="https://github.com/CommonCoreOntology" target="_blank">Common Core Ontologies (CCO)</a> is suite of eleven ontologies which, collectively, comprise a <a href="https://arxiv.org/pdf/2404.17757" target="_blank">mid-level ontology</a>. CCO - initiated by CUBRC, Inc. in 2010 under an IARPA Knowledge Discovery and Dissemination grant - is widely-used in defense and intelligence sectors to support data standardization, interoperability, reproducibility, and automated reasoning across numerous domains. Accordingly, CCO development and application was, for many years, conducted without much transparency. As of 2017, however, CCO has been available under a BSD-3 license with a public GitHub repository open to collaboration. Making CCO publicly available has led to significant increase of interest in CCO development. For example, in 2022 the Institute of Electrical and Electronics Engineers (IEEE) <a href="https://standards.ieee.org/ieee/3195/11025/" target="_blank">P3195 Standard for Requirements for a Mid-Level Ontology and Extensions working group</a> initiated a review of CCO to become the first mid-level ontology standard. More recently, in 2024 CCO was endorsed as a “baseline standard” for <a href="https://www.buffalo.edu/ubnow/stories/2024/03/smith-ontology-standard.html" target="_blank">formal ontology development across the Department of Defense and Intelligence Community</a>. 
 
-     <div class="center-text"><img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/Smith_Barry.jpg" alt="Barry Smith" style="width:50%;"></div>
-    
-    <p>NCOR serves as a vehicle to coordinate, enhance, publicize, and seek funding for ontological research activities. It provides coordination, infrastructure, and independent review to organizations employing ontologies in fields such as defense and intelligence, management, healthcare, and biomedical sciences.</p>
-
-    <p>It provides researchers working in ontology-related areas with specialized support in seeking external funding and in assembling collaborative, interdisciplinary teams both nationally and internationally. It provides consultant services for ontology projects, especially in the defense and security fields and in health care and biomedical informatics. NCOR also engages in training and outreach endeavors that are designed to broaden the range of institutions and individuals accepting the goals of high-quality ontology in both theory and practice.</p>
-
-    <h2>Contemporary Ontology</h2>
-    <p>Contemporary ontology is a partnership of multiple disciplines. On the one hand, ontological research involves philosophers who are concerned to describe broad categories of entities and their most basic relationships. On the other hand, ontologists are working in diverse fields of computer and information science to provide more narrowly focused classification systems in areas such as bioinformatics, engineering, or defense and security.</p>
-
-    <p>Ontologists have identified a wide range of theories and methods to aid the consistent representation of data and information. The idea, in all these cases, is that when bodies of data are annotated using well-structured ontologies, these data can be more easily retrieved, integrated, and compared, and they can more easily be exploited for purposes of computer-based reasoning.</p>
-
-    <p>In biology and biomedicine ontologists have developed controlled vocabularies such as the <a href="https://www.geneontology.org/" target="_blank">Gene Ontology</a> that are being used to describe the results of biological experiments in a consistent fashion that allows comparison of data pertaining to multiple species, diseases, and biological systems. In government, administration, and commerce, ontologies such as the <a href=" https://github.com/CommonCoreOntology/CommonCoreOntologies" target="_blank">Common Core Ontologies</a> are being used to connect data across different departments (such as large government agencies) and to make these data accessible to standard software tools.</p>
-
-    <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/BFO-CCO.png" alt="BFO-CCO" style="width:100%;">
-
-    <p>Ontologists study how definitions, classifications, and relationships should be formulated using the tools of logic and formal semantics in order to most effectively achieve these goals. Their research provides foundations for diverse technologies in areas such as information integration, natural language processing, data annotation, and the construction of intelligent computer systems. Ontologies can also be used by human beings to codify and make explicit common understandings that support human-to-human communication and successful collaborative research across disciplinary boundaries.</p>
+     <div class="center-text"><img src="https://github.com/CommonCoreOntology/cco-webpage/blob/99d37651144c052500371fe2483b9286f27d4624/docs/assets/logos/BFO-CCO.png" alt="Common Core Ontologies" style="width:50%;"></div>
+  
+<h1>Common Core Ontologies</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Common Core Module</th>
+                <th>Scope</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="#">Geospatial Ontology</a></td>
+                <td>Designed to represent sites, spatial regions, and other entities, especially those that are located near the surface of Earth, as well as the relations that hold between them.</td>
+            </tr>
+            <tr>
+                <td><a href="#">Information Entity Ontology</a></td>
+                <td>Designed to represent generic types of information as well as the relationships between information and other entities.</td>
+            </tr>
+            <tr>
+                <td><a href="#">Event Ontology</a></td>
+                <td>Designed to represent processual entities, especially those performed by agents, that occur within multiple domains.</td>
+            </tr>
+            <tr>
+                <td><a href="#">Time Ontology</a></td>
+                <td>Designed to represent temporal regions and the relations that hold between them.</td>
+            </tr>
+            <tr>
+                <td><a href="#">Agent Ontology</a></td>
+                <td>Designed to represent agents, especially persons and organizations, and their roles.</td>
+            </tr>
+            <tr>
+                <td><a href="#">Quality Ontology</a></td>
+                <td>Designed to represent a range of attributes of entities especially qualities, realizable entities, and process profiles.</td>
+            </tr>
+            <tr>
+                <td><a href="#">Units of Measure Ontology</a></td>
+                <td>Designed to represent standard measurement units that are used when measuring various attributes of entities.</td>
+            </tr>
+            <tr>
+                <td><a href="#">Currency Unit Ontology</a></td>
+                <td>Designed to represent currencies that are issued and used by countries.</td>
+            </tr>
+            <tr>
+                <td><a href="#">Facility Ontology</a></td>
+                <td>Designed to represent buildings and campuses that are designed to serve some specific purpose, and which are common to multiple domains.</td>
+            </tr>
+            <tr>
+                <td><a href="#">Artifact Ontology</a></td>
+                <td>Designed to represent artifacts that are common to multiple domains along with their models, specifications, and functions.</td>
+            </tr>
+            <tr>
+                <td><a href="#">Extended Relations Ontology</a></td>
+                <td>Designed to represent many of the relations that hold between entities at the level of the mid-level Common Core Ontologies.</td>
+            </tr>
+        </tbody>
+    </table>
+    <p>CCO modules are not intended to provide an exhaustive taxonomy of all possible entities within scope but instead provide guardrails for extending the top-level semantics of BFO into more specific domains. For example, the Artifact Ontology is a guide for extending the semantics of artifact into specific domains of interest, such as medical artifacts, scientific artifacts, military artifacts, and so on.</p>
 </body>
 </html>

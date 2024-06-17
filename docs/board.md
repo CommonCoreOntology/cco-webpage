@@ -23,23 +23,40 @@
         ul ul {
             list-style-type: circle;
         }
+        .grid-container {
+                display: grid;
+                grid-template-columns: repeat(3, 1fr);
+                gap: 20px;
+            }
+        .grid-item {
+                display: flex;
+                flex-direction: column;
+                align-items: center; 
+            }
+        .grid-item img {
+                width: 200px;
+                height: 200px;
+                object-fit: cover;
+                border-radius: 5px;
+            }
+        .grid-item-content {
+                /* max-height: 300px; /* set to the height of the image */
+                line-height: 1.0;
+                max-width: 200px;
+                /* overflow: hidden; /* hides any content that exceeds the max-height */
+                text-align: center; /* centers the text */
+                padding: 10px 0; /* some vertical padding */
+            }
     </style>
 </head>
 <body>
     <h1>The Common Core Ontologies (CCO)</h1>
     <p>
-        The Common Core Ontologies (CCO) [1] have become, over the last decade, an increasingly important resource for the U.S. Government. This mid-level ontology suite is currently used by dozens of organizations and deployed in critical systems in active operation. To date, CCO has been developed and maintained by Ron Rudnicki and the ontology team at CUBRC, Inc., who have overseen successive releases of CCO that have always sought to meet the needs of a growing number of end users. Through the ingenuity and discipline of this team, CCO has remained a touchstone for ontology development, reducing the time needed to develop jointly interoperable high-quality domain ontologies aligned to Basic Formal Ontology (BFO). As a result, CCO has continued to receive greater adoption, and will become a central component of the DoD IC Ontology Foundry. In particular, both BFO and CCO have been directed for use in the communities as baseline standards for ontology development.
+        The <a href="https://github.com/CommonCoreOntology" target="_blank">Common Core Ontologies (CCO)</a> have become, over the last decade, an increasingly important resource for the U.S. Government. This mid-level ontology suite is currently used by dozens of organizations and deployed in critical systems in active operation. To date, CCO has been developed and maintained by Ron Rudnicki and the ontology team at CUBRC, Inc., who have overseen successive releases of CCO that have always sought to meet the needs of a growing number of end users. Through the ingenuity and discipline of this team, CCO has remained a touchstone for ontology development, reducing the time needed to develop jointly interoperable high-quality domain ontologies aligned to <a href="https://github.com/BFO-ontology/BFO-2020" target="_blank">Basic Formal Ontology (BFO)</a>. As a result, CCO has continued to receive greater adoption, and will become a central component of the DoD IC Ontology Foundry. In particular, both BFO and CCO have been directed for use in the communities as baseline standards for ontology development.
     </p>
     <p>
-        In recognition of the need for CCO to continue to scale and evolve, future releases of CCO will be overseen by The Common Core Governance Board, which will have an established charter and bylaws and will be composed of representatives from stake-holder organizations who have been involved in CCO development through the past decade. Initial members will include:
+        In recognition of the need for CCO to continue to scale and evolve, future releases of CCO will be overseen by The Common Core Board of Directors, which will have an established charter and bylaws and will be composed of representatives from stake-holder organizations who have been involved in CCO development through the past decade. 
     </p>
-    <ul>
-        <li>Mark Jensen (Customs and Border Protection)</li>
-        <li>John Beverley, Ph.D. (The University at Buffalo, SUNY)</li>
-        <li>Alexander Cox (CUBRC, Inc.)</li>
-        <li>Barry Smith, Ph.D. (The University at Buffalo, SUNY)</li>
-        <li>J. Neil Otte, Ph.D. (The Johns Hopkins University Applied Physics Laboratory)</li>
-    </ul>
     <p>
         This board shall be charged with ensuring that CCO is openly available, well-maintained, responsive to user needs and technological and theoretical changes, and independent of any undue influence imposed by a single project or organization. Additionally, the board will pursue:
     </p>
@@ -54,5 +71,68 @@
         <li>Coordinating with The Industrial Ontology Foundry, The Open Biomedical and Biological Ontology Foundry, and The DoD-IC Ontology Foundry</li>
         <li>Ensuring that CCO is responsive to the needs of U.S. Government stakeholders</li>
     </ul>
+
+
+<p style="font-size:25px"><center><b>CCO Board of Directors</b></center></p>
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/mark_jensen_head_shot_sm-e1486422487967-300x279.jpg" alt="Mark Jensen">
+        <div class="grid-item-content">
+            <h3><a href="https://scholar.google.com/citations?user=nPic3vkAAAAJ">Mark Jensen</a></h3>
+        </div>
+    </div>
+    <div class="grid-item">
+        <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2020/05/20200518_235644.jpg" alt="John Beverley" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="https://johnbeverley.com">John Beverley</a></h3>
+        </div>
+    </div>
+    <div class="grid-item">
+            <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/J-Neil-Otte-2.3.17-225x300.jpg" alt="J. Niel Otte" width="200" height="200">
+            <div class="grid-item-content">
+                <h3><a href="https://www.jneilotte.com">J. Neil Otte</a></h3>
+        </div>
+    </div>
+    <div class="grid-item">
+        <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2021/09/CoxHeadshot-scaled.jpg" alt="Alexander P. Cox" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="https://philarchive.org/s/Alexander%20P.%20Cox">Alexander P. Cox</a></h3> 
+        </div>
+    </div>
+    <div class="grid-item">
+        <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Barry-Smith-300x300.jpg" alt="Barry Smith">
+        <div class="grid-item-content">
+            <h3><a href="http://ontology.buffalo.edu/smith/">Barry Smith</a></h3>
+    </div>
+</div>
+
+<div class="divider" style="width: 100%; height: 2px; background-color: #333; margin: 5px 20;"></div>
+
+<p style="font-size:25px"><center><b>CCO Governance Members</b></center></p>
+
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Alan-Ruttenberg-300x225.jpg" alt="Allen Ruttenberg">
+        <div class="grid-item-content">
+            <h3><a href="//creativecommons.org/about/program-areas/open-science">Alan Ruttenberg</a></h3>
+        </div>
+<div class="grid-item">
+        <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2023/10/Screenshot-2023-10-16-at-12.01.57-AM.png" alt="Cameron More" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="https://www.linkedin.com/in/cameron-more/">Cameron More</a></h3>
+        </div>
+    </div>
+<div class="grid-item">
+        <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Ron-Rudnicki-300x300.jpg" alt="Ron Rudnicki">
+        <div class="grid-item-content">
+            <h3><a href="https://www.linkedin.com/in/ron-rudnicki-957b004/">Ron Rudnicki</a></h3>
+        </div>
+    </div>
+<div class="grid-item">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/olivia.png" alt="Olivia Hobai" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="https://www.researchgate.net/profile/Olivia-Hobai">Olivia Hobai</a></h3>
+        </div>
+    </div>
 </body>
 </html>

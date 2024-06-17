@@ -23,19 +23,13 @@ nav:
   - About: 
     - Mission: index.md
     - Board of Directors: board.md
-    - Affiliate Members: affiliates.md
+    - Affiliates: affiliates.md
     - Users: users.md
     - CCO FAQ: cco-faq.md
-  - Sponsors: sponsors.md
   - Support: 
     - Office Hours: office-hours.md
     - Design Patterns: design-patterns.md
-  - Volunteer: 
-    - Working Groups: working-groups.md
-  - News: 
-    - Blog: blog.md
-    - Community Awards: award.md
-    - Discussion Board: discussion.md
+  - Working Groups: working-groups.md
 
 extra:
   social:
