@@ -24,10 +24,13 @@ nav:
     - Board of Directors: board.md
     - Affiliates: affiliates.md
     - Users: users.md
-    - CCO FAQ: cco-faq.md
+    #- CCO FAQ: cco-faq.md
   - Support: 
     - Office Hours: office-hours.md
-    - Design Patterns: design-patterns.md
+    - Design Patterns: 
+      - Geospatial Tracking: geospatial-tracking.md
+      - Information Model: information.md 
+      - Stasis: stasis.md
   - Working Groups: working-groups.md
 
 extra:
