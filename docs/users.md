@@ -35,6 +35,7 @@
             <tr><td><a href="https://matportal.org/ontologies/MDS">Materials Data Science Ontology</a></td><td>Represents concepts and relationships specific to materials data science.</td></tr>
             <tr><td><a href="https://matportal.org/ontologies/NMRRVOCAB">Materials Data Vocabulary</a></td><td>Vocabulary for materials data.</td></tr>
             <tr><td><a href="https://matportal.org/ontologies/MDO-FULL">Materials Design Ontology</a></td><td>Represents concepts and relationships in materials design.</td></tr>
+            <tr><td><a href="https://github.com/materialdigital/materialdigital1_ontology_collection/tree/f9be08f730bd093abb8bd3c75fae69f48406f6ea">Material Digital Ontology Collection</a></td></td>Partners of ontologists creating formal reoresentations of digital twins.</td></tr>
             <tr><td><a href="https://matportal.org/ontologies/MECH">Materials-Mechanics-Ontology</a></td><td>Represents concepts and relationships in the mechanics of materials.</td></tr>
             <tr><td><a href="https://matportal.org/ontologies/MM">Materials Mine</a></td><td>A repository of materials data and related ontologies.</td></tr>
             <tr><td><a href="https://matportal.org/ontologies/MOL_BRINELL">MatoLab Brinell Test Ontology</a></td><td>Represents information specific to Brinell hardness tests in Mat-O-Lab applications.</td></tr>
