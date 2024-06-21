@@ -24,7 +24,9 @@
             <tr><td><a href="https://arxiv.org/pdf/2005.08078">Cognitive Process Ontology</a></td><td>Consists of terms representing cognitive processes – kinds of mental processes – used by intelligence analysts.</td></tr>
             <tr><td><a href="https://github.com/CommonCoreOntology/TowardsACyberInformationOntology">Cyber Information Ontology</a></td><td>Represents cyber information, reliability, warrant, and transmission protocols.</td></tr>
             <tr><td><a href="https://matportal.org/ontologies/DEB">Devices, Experimental scaffolds and Biomaterials Ontology</a></td><td>Represents information about devices, experimental scaffolds, and biomaterials.</td></tr>
+            <tr><td><a href="https://incose.onlinelibrary.wiley.com/doi/full/10.1002/sys.21662">Digital Engineering Framework for Integration and Interoperability (DEFII)</a></td><td>Framework for incorporating semantic web technologies into engineering design and analysis tasks.</td></tr>
             <tr><td><a href="https://arxiv.org/pdf/2405.00960v1">Digital Twin Ontology</a></td><td>BFO and CCO-based foundation for digital twin phenomena.</td></tr>
+            <tr><td><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9035364&casa_token=qihS42b2lPsAAAAA:BvXdhJe1sgpMHAJhTwL2lUBgRutrQI39KyNfwFHJ5yp9JlHNvHcoigKnNAUaDTNPQBboQEHZWQ&tag=1">DISERTO</a></td><td>Semantics-based Tool for Automatic and Virtual Data Integration.</td></tr>
             <tr><td><a href="https://matportal.org/ontologies/EMMO">European Materials Modelling Ontology</a></td><td>Represents concepts and relationships in European materials modeling.</td></tr>
             <tr><td><a href="https://github.com/skybristol/geokb">Geoscience Knowledgebase (GeoKB)</a></td><td>Framework for assembling, organizing, growing, and reasoning (AI) knowledge about the earth system.</td></tr>
             <tr><td><a href="https://github.com/iofoundry/ontology">Industrial Ontology Core</a></td><td>Represents mid-level terms for industrial manufacturing and services.</td></tr>
@@ -47,7 +49,9 @@
             <tr><td><a href="https://matportal.org/ontologies/MTO">Mechanical testing ontology</a></td><td>Represents concepts and processes in mechanical testing.</td></tr>
             <tr><td><a href="https://www.sciencedirect.com/science/article/pii/S1877050922012303">Mobile Blood Collection Ontology</a></td><td>Modular suite of ontologies that formalize the mobile blood collection process.</td></tr>
             <tr><td><a href="https://arxiv.org/pdf/1809.07783">Neural Network Event Extraction</a></td><td>Leveraging event ontology module of CCO to NN extraction.</td></tr>
+            <tr><td><a href="https://philpapers.org/archive/VAJTAO.pdf">Ontology of Commercial Exchange (OCE)</a></td><td>Designed to represent aspects of human social behavior involving purchasing, selling, marketing, and so forth.</td></tr>
             <tr><td><a href="https://github.com/TRADOC-G2/oe-ontology/blob/0fe9577b6f603475c80b9aa36fbbcf49dd3d6797/ExtendedRelationOntology.ttl#L15">Operational Environment Ontology</a></td><td>Represents concepts and processes in mechanical testing.</td></tr>
+            <tr><td><a href="https://ieeexplore.ieee.org/abstract/document/9798936?casa_token=iqUpJR3_gtQAAAAA:arwyROnS9D3LfIYV1LHH4NPyssAMvG26JxfLDuO3JDgA53ssaUMKVvL32BSt2_Dc4XbpRRU07w">POLARISC Ontology</a></td><td>Defines the Knowledge of French emergency responders who are involved in the disaster response process.</td></tr>
             <tr><td><a href="https://github.com/TrustedAI-KG-NLP/cco-pizza">Pizza Ontology Project</a></td><td>Project space for learning ontology engineering regarding pizzas.</td></tr>
             <tr><td><a href="https://content.iospress.com/articles/applied-ontology/ao190210">Product Life Cycle Ontologies</a></td><td>Ontology suite representing manufacturing product life cycles.</td></tr>
             <tr><td><a href="https://github.com/BFO-Mappings/PROV-to-BFO/blob/0ebed419d2584e4ea7a0dcecd93aeb17caafe11a/prov-cco-directmappings.ttl#L15">PROVO-CCO Mapping</a></td></tr>Mapping between PROVO and CCO.</td></tr>
@@ -59,7 +63,19 @@
             <tr><td><a href="https://github.com/JonThom/typedb-schema-BFO">Typedb-schema-BFO</a></td><td>Upper ontology, with mid- and domain-level ontologies ported to Grakn schemae.</td></tr>
             <tr><td><a href="https://matportal.org/ontologies/VIMMP_ONTOLOGIES">Virtual Materials Marketplace (VIMMP) Ontologies</a></td><td>Represents comprehensive concepts and relationships in the virtual materials marketplace.</td></tr>
             <tr><td><a href="https://bioportal.bioontology.org/ontologies/VIDO">Virus Infectious Disease Ontology</a></td><td>Represents epidemiology, classification, pathogenesis, and treatment of terms used by virologists, i.e. virus, prion, satellite, viroid, etc.</td></tr>
+            <tr><td><a href="https://github.com/standardgalactic/WindTurbineProject">Wind Turbine Project</a></td><td>Represents wind turbine blade materials based on key performance parameters.</td></tr>
         </tbody>
     </table>
 </body>
 </html>
+
+
+            
+
+            
+
+            
+
+            
+
+            
