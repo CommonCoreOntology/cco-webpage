@@ -31,7 +31,7 @@ nav:
   - Design Patterns: 
     - Geospatial Tracking: geospatial-tracking.md
     - Information Model: information.md 
-    - Stasis: stasis.md
+    #- Stasis: stasis.md
 
 extra:
   social:

@@ -24,29 +24,27 @@
             list-style-type: circle;
         }
         .grid-container {
-                display: grid;
-                grid-template-columns: repeat(3, 1fr);
-                gap: 20px;
-            }
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+        }
         .grid-item {
-                display: flex;
-                flex-direction: column;
-                align-items: center; 
-            }
+            display: flex;
+            flex-direction: column;
+            align-items: center; 
+        }
         .grid-item img {
-                width: 200px;
-                height: 200px;
-                object-fit: cover;
-                border-radius: 5px;
-            }
+            width: 200px;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 5px;
+        }
         .grid-item-content {
-                /* max-height: 300px; /* set to the height of the image */
-                line-height: 1.0;
-                max-width: 200px;
-                /* overflow: hidden; /* hides any content that exceeds the max-height */
-                text-align: center; /* centers the text */
-                padding: 10px 0; /* some vertical padding */
-            }
+            line-height: 1.0;
+            max-width: 200px;
+            text-align: center;
+            padding: 10px 0;
+        }
     </style>
 </head>
 <body>
@@ -72,71 +70,71 @@
         <li>Ensuring that CCO is responsive to the needs of U.S. Government stakeholders</li>
     </ul>
 
-<div class="divider" style="width: 100%; height: 2px; background-color: #333; margin: 5px 20;"></div>
+    <div class="divider" style="width: 100%; height: 2px; background-color: #333; margin: 5px 20px;"></div>
 
-<p style="font-size:25px"><center><b>CCO Board of Directors</b></center></p>
-<div class="grid-container">
-    <div class="grid-item">
-        <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/mark_jensen_head_shot_sm-e1486422487967-300x279.jpg" alt="Mark Jensen">
-        <div class="grid-item-content">
-            <h3><a href="https://scholar.google.com/citations?user=nPic3vkAAAAJ">Mark Jensen</a></h3>
+    <p style="font-size:25px"><center><b>CCO Board of Directors</b></center></p>
+    <div class="grid-container">
+        <div class="grid-item">
+            <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/mark_jensen_head_shot_sm-e1486422487967-300x279.jpg" alt="Mark Jensen">
+            <div class="grid-item-content">
+                <h3><a href="https://scholar.google.com/citations?user=nPic3vkAAAAJ">Mark Jensen</a></h3>
+            </div>
         </div>
-    </div>
-    <div class="grid-item">
-        <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2020/05/20200518_235644.jpg" alt="John Beverley" width="200" height="200">
-        <div class="grid-item-content">
-            <h3><a href="https://johnbeverley.com">John Beverley</a></h3>
+        <div class="grid-item">
+            <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2020/05/20200518_235644.jpg" alt="John Beverley" width="200" height="200">
+            <div class="grid-item-content">
+                <h3><a href="https://johnbeverley.com">John Beverley</a></h3>
+            </div>
         </div>
-    </div>
-    <div class="grid-item">
+        <div class="grid-item">
             <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/J-Neil-Otte-2.3.17-225x300.jpg" alt="J. Niel Otte" width="200" height="200">
             <div class="grid-item-content">
                 <h3><a href="https://www.jneilotte.com">J. Neil Otte</a></h3>
+            </div>
+        </div>
+        <div class="grid-item">
+            <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2021/09/CoxHeadshot-scaled.jpg" alt="Alexander P. Cox" width="200" height="200">
+            <div class="grid-item-content">
+                <h3><a href="https://philarchive.org/s/Alexander%20P.%20Cox">Alexander P. Cox</a></h3> 
+            </div>
+        </div>
+        <div class="grid-item">
+            <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Barry-Smith-300x300.jpg" alt="Barry Smith">
+            <div class="grid-item-content">
+                <h3><a href="http://ontology.buffalo.edu/smith/">Barry Smith</a></h3>
+            </div>
         </div>
     </div>
-    <div class="grid-item">
-        <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2021/09/CoxHeadshot-scaled.jpg" alt="Alexander P. Cox" width="200" height="200">
-        <div class="grid-item-content">
-            <h3><a href="https://philarchive.org/s/Alexander%20P.%20Cox">Alexander P. Cox</a></h3> 
+
+    <div class="divider" style="width: 100%; height: 2px; background-color: #333; margin: 5px 20px;"></div>
+
+    <p style="font-size:25px"><center><b>CCO Governance Members</b></center></p>
+
+    <div class="grid-container">
+        <div class="grid-item">
+            <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Alan-Ruttenberg-300x225.jpg" alt="Alan Ruttenberg">
+            <div class="grid-item-content">
+                <h3><a href="//creativecommons.org/about/program-areas/open-science">Alan Ruttenberg</a></h3>
+            </div>
         </div>
-    </div>
-    <div class="grid-item">
-        <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Barry-Smith-300x300.jpg" alt="Barry Smith">
-        <div class="grid-item-content">
-            <h3><a href="http://ontology.buffalo.edu/smith/">Barry Smith</a></h3>
-    </div>
-    <div class="grid-item">
-        <div class="grid-item-content">
-    </div>
-</div>
-
-<div class="divider" style="width: 100%; height: 2px; background-color: #333; margin: 5px 20;"></div>
-
-<p style="font-size:25px"><center><b>CCO Governance Members</b></center></p>
-
-<div class="grid-container">
-    <div class="grid-item">
-        <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Alan-Ruttenberg-300x225.jpg" alt="Allen Ruttenberg">
-        <div class="grid-item-content">
-            <h3><a href="//creativecommons.org/about/program-areas/open-science">Alan Ruttenberg</a></h3>
-        </div>
-    <div class="grid-item">
+        <div class="grid-item">
             <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2023/10/Screenshot-2023-10-16-at-12.01.57-AM.png" alt="Cameron More" width="200" height="200">
             <div class="grid-item-content">
                 <h3><a href="https://www.linkedin.com/in/cameron-more/">Cameron More</a></h3>
             </div>
         </div>
-    <div class="grid-item">
+        <div class="grid-item">
             <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Ron-Rudnicki-300x300.jpg" alt="Ron Rudnicki">
             <div class="grid-item-content">
                 <h3><a href="https://www.linkedin.com/in/ron-rudnicki-957b004/">Ron Rudnicki</a></h3>
             </div>
         </div>
-    <div class="grid-item">
+        <div class="grid-item">
             <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/olivia.png" alt="Olivia Hobai" width="200" height="200">
             <div class="grid-item-content">
                 <h3><a href="https://www.researchgate.net/profile/Olivia-Hobai">Olivia Hobai</a></h3>
             </div>
         </div>
+    </div>
 </body>
 </html>
