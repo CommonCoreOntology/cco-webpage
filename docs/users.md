@@ -13,7 +13,7 @@
 <body>
     <table>
         <thead>
-            <tr><th>Users of Common Core Ontologies</th><th>Description</th></tr>
+            <tr><th>Project Leveraging CCO</th><th>Project Description</th></tr>
         </thead>
         <tbody>
             <tr><td><a href="https://github.com/BuffaloMfgWorks/AM-CDM-Ontology-Map">AM-CDM-Ontology-Map</a></td><td>Mapping of Additive Manufacturing Common Data Model (AM-CDM) to CCO.</td></tr>
@@ -41,8 +41,7 @@
             <tr><td><a href="https://matportal.org/ontologies/MDS">Materials Data Science Ontology</a></td><td>Represents concepts and relationships specific to materials data science.</td></tr>
             <tr><td><a href="https://matportal.org/ontologies/NMRRVOCAB">Materials Data Vocabulary</a></td><td>Vocabulary for materials data.</td></tr>
             <tr><td><a href="https://matportal.org/ontologies/MDO-FULL">Materials Design Ontology</a></td><td>Represents concepts and relationships in materials design.</td></tr>
-            <tr><td><a href="https://github.com/materialdigital/materialdigital1_ontology_collection/tree/f9be08f730bd093abb8bd3c75fae69f48406f6ea">Material Digital Ontology Collection</a></td></td>Partners of ontologists creating formal reoresentations of digital twins.</td></tr>
-            <tr><td><a href="https://matportal.org/ontologies/MECH">Materials-Mechanics-Ontology</a></td><td>Represents concepts and relationships in the mechanics of materials.</td></tr>
+            <tr><td><a href="https://matportal.org/ontologies/MECH">Materials Mechanics Ontology</a></td><td>Represents concepts and relationships in the mechanics of materials.</td></tr>
             <tr><td><a href="https://matportal.org/ontologies/MM">Materials Mine</a></td><td>A repository of materials data and related ontologies.</td></tr>
             <tr><td><a href="https://matportal.org/ontologies/MOL_BRINELL">MatoLab Brinell Test Ontology</a></td><td>Represents information specific to Brinell hardness tests in Mat-O-Lab applications.</td></tr>
             <tr><td><a href="https://matportal.org/ontologies/MOL_TENSILE">Matolab Tensile Test Ontology</a></td><td>Represents information specific to tensile tests in Mat-O-Lab applications.</td></tr>
@@ -60,7 +59,7 @@
             <tr><td><a href="https://ieeexplore.ieee.org/abstract/document/9798936?casa_token=iqUpJR3_gtQAAAAA:arwyROnS9D3LfIYV1LHH4NPyssAMvG26JxfLDuO3JDgA53ssaUMKVvL32BSt2_Dc4XbpRRU07w">POLARISC Ontology</a></td><td>Defines the Knowledge of French emergency responders who are involved in the disaster response process.</td></tr>
             <tr><td><a href="https://github.com/TrustedAI-KG-NLP/cco-pizza">Pizza Ontology Project</a></td><td>Project space for learning ontology engineering regarding pizzas.</td></tr>
             <tr><td><a href="https://content.iospress.com/articles/applied-ontology/ao190210">Product Life Cycle Ontologies</a></td><td>Ontology suite representing manufacturing product life cycles.</td></tr>
-            <tr><td><a href="https://github.com/BFO-Mappings/PROV-to-BFO/blob/0ebed419d2584e4ea7a0dcecd93aeb17caafe11a/prov-cco-directmappings.ttl#L15">PROVO-CCO Mapping</a></td></tr>Mapping between PROVO and CCO.</td></tr>
+            <tr><td><a href="https://github.com/BFO-Mappings/PROV-to-BFO/blob/0ebed419d2584e4ea7a0dcecd93aeb17caafe11a/prov-cco-directmappings.ttl#L15">PROVO-CCO Mapping</a></td></td>Mapping between PROVO and CCO.</td></tr>
             <tr><td><a href="https://pubs.geoscienceworld.org/gsa/books/edited-volume/2377/chapter-abstract/135416298/Ontology-of-the-complex-rare-earth-elements?redirectedFrom=fulltext">Rare-Earth Elements (REE) Ontology</a></td><td>Formalizes the interactions among the members of various magmatic, hydrothermal, basinal, regolith, and supergene subsystems.</td></tr>
             <tr><td><a href="https://github.com/RUBRIC-ontology/RUBRIC">Regulatory Basis for Informed Consent (RUBRIC)</a></td><td>Ontology representing informed consent concepts.</td></tr>
             <tr><td><a href="https://philpapers.org/archive/COXTSD-2.pdf">Space Domain Ontologies</a></td><td>Ontologies representing phenomena relevant to the domain of space.</td></tr>
