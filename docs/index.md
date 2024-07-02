@@ -20,7 +20,7 @@
     </style>
 </head>
 <body>
-    <h1>Common Core Ontoloies (CCO)</h1>
+    <h1>Common Core Ontologies (CCO)</h1>
     <p>The <a href="https://github.com/CommonCoreOntology" target="_blank">Common Core Ontologies (CCO)</a> is suite of eleven ontologies which, collectively, comprise a <a href="https://arxiv.org/pdf/2404.17757" target="_blank">mid-level ontology</a>. CCO - initiated by CUBRC, Inc. in 2010 under an IARPA Knowledge Discovery and Dissemination grant - is widely-used in defense and intelligence sectors to support data standardization, interoperability, reproducibility, and automated reasoning across numerous domains. Accordingly, CCO development and application was, for many years, conducted without much transparency. As of 2017, however, CCO has been available under a BSD-3 license with a public GitHub repository open to collaboration. Making CCO publicly available has led to significant increase of interest in CCO development. For example, in 2022 the Institute of Electrical and Electronics Engineers (IEEE) <a href="https://standards.ieee.org/ieee/3195/11025/" target="_blank">P3195 Standard for Requirements for a Mid-Level Ontology and Extensions working group</a> initiated a review of CCO to become the first mid-level ontology standard. More recently, in 2024 CCO was endorsed as a “baseline standard” for all <a href="https://www.buffalo.edu/ubnow/stories/2024/03/smith-ontology-standard.html" target="_blank">formal ontology development across the Department of Defense and Intelligence Community</a>. 
      <div class="center-text"><img src="https://raw.githubusercontent.com/CommonCoreOntology/cco-webpage/main/docs/assets/logos/BFO-CCO.png" alt="Common Core Ontologies" style="width:75%;"></div>
 <h1>Common Core Ontologies</h1>
