@@ -13,6 +13,10 @@
 <p>The CCOWG is chaired by <a href="https://www.linkedin.com/in/carterbeaubenson/" class="custom-color">Carter Benson</a> and holds weekly hybrid meetings. Meetings regularly involve discussions of CCO-based projects, such as design pattern refinement, alignment with nearby open-source ontologies, and crafting criteria for what counts as a "mid-level" ontology or ontology suite. Please see the minutes from past meetings below for a better understanding of topics covered.</p>
 <p>If you would like to attend CCOWG meetings either in-person or remotely, contact Carter at: carterbe[at]buffalo.edu.</p>
 
+<h2>IEEE Ontology Standards WG</h2>
+<p>The Common Core Ontologies have been submitted to the Institute of Electrical and Electronics Engineers (IEEE) as part of a standard for defining mid-level ontologies. This standard, <a href="https://standards.ieee.org/ieee/3195/11025/" class="custom-color">P3195</a> would establish the requirements for an ontology to be a mid-level ontology and defines several ontologies as mid-level ontologies, including CCO.</p>
+<p>This group works on getting P3195 to reach full approval status. If you would like to participate, contact the working group chair, James Schoening, james.schoening@ieee.org.</p>
+
 <h2>Common Core Ontology Resources</h2>
 <p>The Common Core Ontology suite is a widely-used open-source project with helpful documentation to guide development across its numerous domains and extensions. Resources include:</p>
 <ul>
