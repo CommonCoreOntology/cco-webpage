@@ -3,9 +3,8 @@
 <title>NCOR Common Core Ontologies Working Group</title>
 </head>
 <body>
-<h1>NCOR Common Core Ontologies Working Group</h1>
+<h1>Common Core Ontologies Working Group</h1>
 
-<h2>Common Core Ontologies</h2>
 <p>The Common Core Ontologies (CC)) were developed and promoted by <a href="https://scholar.google.com/citations?hl=en&user=JLM7L2EAAAAJ&view_op=list_works&sortby=pubdate" class="custom-color">Ron Rudnicki</a> and is comprised of 11 ontologies extending from Basic Formal Ontology that aim to represent and integrate taxonomies of generic classes and relations across all domains.</p>
 
 <h2>NCOR CCO WG</h2>
