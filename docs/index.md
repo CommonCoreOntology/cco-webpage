@@ -79,6 +79,5 @@
             </tr>
         </tbody>
     </table>
-    <p>CCO modules are not intended to provide an exhaustive taxonomy of all possible entities within scope but instead provide guardrails for extending the top-level semantics of BFO into more specific domains. For example, the Artifact Ontology is a guide for extending the semantics of artifact into specific domains of interest, such as medical artifacts, scientific artifacts, military artifacts, and so on.</p>
 </body>
 </html>
