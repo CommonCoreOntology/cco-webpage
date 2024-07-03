@@ -3,9 +3,8 @@
 <title>NCOR Common Core Ontologies Working Group</title>
 </head>
 <body>
-<h1>NCOR Common Core Ontologies Working Group</h1>
+<h1>Common Core Ontologies Working Group</h1>
 
-<h2>Common Core Ontologies</h2>
 <p>The Common Core Ontologies (CC)) were developed and promoted by <a href="https://scholar.google.com/citations?hl=en&user=JLM7L2EAAAAJ&view_op=list_works&sortby=pubdate" class="custom-color">Ron Rudnicki</a> and is comprised of 11 ontologies extending from Basic Formal Ontology that aim to represent and integrate taxonomies of generic classes and relations across all domains.</p>
 
 <h2>NCOR CCO WG</h2>
@@ -13,16 +12,9 @@
 <p>The CCOWG is chaired by <a href="https://www.linkedin.com/in/carterbeaubenson/" class="custom-color">Carter Benson</a> and holds weekly hybrid meetings. Meetings regularly involve discussions of CCO-based projects, such as design pattern refinement, alignment with nearby open-source ontologies, and crafting criteria for what counts as a "mid-level" ontology or ontology suite. Please see the minutes from past meetings below for a better understanding of topics covered.</p>
 <p>If you would like to attend CCOWG meetings either in-person or remotely, contact Carter at: carterbe[at]buffalo.edu.</p>
 
-<h2>Common Core Ontology Resources</h2>
-<p>The Common Core Ontology suite is a widely-used open-source project with helpful documentation to guide development across its numerous domains and extensions. Resources include:</p>
-<ul>
-  <li><a href="https://github.com/CommonCoreOntology/CommonCoreOntologies" class="custom-color">Common Core Ontologies Github Repository</a></li>
-  <li><a href="https://www.nist.gov/system/files/documents/2021/10/14/nist-ai-rfi-cubrc_inc_004.pdf" class="custom-color">Overview of Common Core Ontologies</a></li>
-  <li><a href="https://www.nist.gov/system/files/documents/2021/10/14/nist-ai-rfi-cubrc_inc_003.pdf" class="custom-color">Modeling Information with Common Core Ontologies</a></li>
-  <li><a href="https://philarchive.org/archive/COXTSD-2" class="custom-color">An Overview of the Common Core Space Domain Ontologies</a></li>
-  <li><a href="https://philpapers.org/archive/MORJDO.pdf" class="custom-color">Joint Doctrine Ontology</a></li>
-  <li><a href="https://www.youtube.com/watch?v=ai4YdLiCGNM" class="custom-color">How to Handle Data about What Does Not Exist</a></li>
-</ul>
+<h2>IEEE Ontology Standards WG</h2>
+<p>The Common Core Ontologies have been submitted to the Institute of Electrical and Electronics Engineers (IEEE) as part of a standard for defining mid-level ontologies. This standard, <a href="https://standards.ieee.org/ieee/3195/11025/" class="custom-color">P3195</a> would establish the requirements for an ontology to be a mid-level ontology and defines several ontologies as mid-level ontologies, including CCO.</p>
+<p>This group works on getting P3195 to reach full approval status. If you would like to participate, contact the working group chair, James Schoening, james.schoening@ieee.org.</p>
 
 <h2>Minutes</h2>
 <a href="https://drive.google.com/file/d/1b1XX34WafCgCVQ4YB-PSrtyXeu836CaV/view?usp=drive_link">NCOR CCO Summary - October 02</a><br>
