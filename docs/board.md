@@ -53,9 +53,6 @@
         The <a href="https://github.com/CommonCoreOntology" target="_blank">Common Core Ontologies (CCO)</a> have become, over the last decade, an increasingly important resource for the U.S. Government. This mid-level ontology suite is currently used by dozens of organizations and deployed in critical systems in active operation. To date, CCO has been developed and maintained by Ron Rudnicki and the ontology team at CUBRC, Inc., who have overseen successive releases of CCO that have always sought to meet the needs of a growing number of end users. Through the ingenuity and discipline of this team, CCO has remained a touchstone for ontology development, reducing the time needed to develop jointly interoperable high-quality domain ontologies aligned to <a href="https://github.com/BFO-ontology/BFO-2020" target="_blank">Basic Formal Ontology (BFO)</a>. As a result, CCO has continued to receive greater adoption, and will become a central component of the DoD IC Ontology Foundry. In particular, both BFO and CCO have been directed for use in the communities as baseline standards for ontology development.
     </p>
     <p>
-        In recognition of the need for CCO to continue to scale and evolve, future releases of CCO will be overseen by The Common Core Board of Directors, which will have an established charter and bylaws and will be composed of representatives from stake-holder organizations who have been involved in CCO development through the past decade. 
-    </p>
-    <p>
         This board shall be charged with ensuring that CCO is openly available, well-maintained, responsive to user needs and technological and theoretical changes, and independent of any undue influence imposed by a single project or organization. Additionally, the board will pursue:
     </p>
     <ul>
