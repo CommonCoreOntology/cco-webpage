@@ -108,7 +108,7 @@
 
     <div class="divider" style="width: 100%; height: 2px; background-color: #333; margin: 5px 20px;"></div>
 
-    <p style="font-size:25px"><center><b>CCO Governance Members</b></center></p>
+    <p style="font-size:25px"><center><b>CCO Technical Committee</b></center></p>
 
     <div class="grid-container">
         <div class="grid-item">
