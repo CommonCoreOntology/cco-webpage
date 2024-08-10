@@ -35,47 +35,47 @@
         <tbody>
             <tr>
                 <td><a href="#">Geospatial Ontology</a></td>
-                <td>Designed to represent sites, spatial regions, and other entities, especially those that are located near the surface of Earth, as well as the relations that hold between them.</td>
+                <td>The scope of this ontology is reserved for the domain of sites, spatial regions, and other entities, especially those that are located near the surface of Earth, as well as the relations that hold between them.</td>
             </tr>
             <tr>
                 <td><a href="#">Information Entity Ontology</a></td>
-                <td>Designed to represent generic types of information as well as the relationships between information and other entities.</td>
+                <td>The scope of this ontology is reserved for the domain of generic types of information as well as the relationships between information and other entities.</td>
             </tr>
             <tr>
                 <td><a href="#">Event Ontology</a></td>
-                <td>Designed to represent processual entities, especially those performed by agents, that occur within multiple domains.</td>
+                <td>The scope of this ontology is reserved for the domain of processual entities, especially those performed by agents, that occur within multiple domains.</td>
             </tr>
             <tr>
                 <td><a href="#">Time Ontology</a></td>
-                <td>Designed to represent temporal regions and the relations that hold between them.</td>
+                <td>The scope of this ontology is reserved for the domain of temporal regions and the relations that hold between them.</td>
             </tr>
             <tr>
                 <td><a href="#">Agent Ontology</a></td>
-                <td>Designed to represent agents, especially persons and organizations, and their roles.</td>
+                <td>The scope of this ontology is reserved for the domain of agents, especially persons and organizations, and their roles.</td>
             </tr>
             <tr>
                 <td><a href="#">Quality Ontology</a></td>
-                <td>Designed to represent a range of attributes of entities especially qualities, realizable entities, and process profiles.</td>
+                <td>The scope of this ontology is reserved for the domain of a range of attributes of entities especially qualities, realizable entities, and process profiles.</td>
             </tr>
             <tr>
                 <td><a href="#">Units of Measure Ontology</a></td>
-                <td>Designed to represent standard measurement units that are used when measuring various attributes of entities.</td>
+                <td>The scope of this ontology is reserved for the domain of standard measurement units that are used when measuring various attributes of entities.</td>
             </tr>
             <tr>
                 <td><a href="#">Currency Unit Ontology</a></td>
-                <td>Designed to represent currencies that are issued and used by countries.</td>
+                <td>The scope of this ontology is reserved for the domain of currencies that are issued and used by countries.</td>
             </tr>
             <tr>
                 <td><a href="#">Facility Ontology</a></td>
-                <td>Designed to represent buildings and campuses that are designed to serve some specific purpose, and which are common to multiple domains.</td>
+                <td>The scope of this ontology is reserved for the domain of buildings and campuses that are designed to serve some specific purpose, and which are common to multiple domains.</td>
             </tr>
             <tr>
                 <td><a href="#">Artifact Ontology</a></td>
-                <td>Designed to represent artifacts that are common to multiple domains along with their models, specifications, and functions.</td>
+                <td>The scope of this ontology is reserved for the domain of artifacts that are common to multiple domains along with their models, specifications, and functions.</td>
             </tr>
             <tr>
                 <td><a href="#">Extended Relations Ontology</a></td>
-                <td>Designed to represent many of the relations that hold between entities at the level of the mid-level Common Core Ontologies.</td>
+                <td>The scope of this ontology is reserved for the domain of many of the relations that hold between entities at the level of the mid-level Common Core Ontologies.</td>
             </tr>
         </tbody>
     </table>
