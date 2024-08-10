@@ -30,7 +30,7 @@
                 <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/cubrc.png" alt="Calspan University at Buffalo Research Center">
             </a>
             <div class="grid-item-content">
-                <h3><a href="https://scholar.google.com/citations?user=nPic3vkAAAAJ">CUBRC</a></h3>
+                <h3>CUBRC</h3>
             </div>
         </div>
         <div class="grid-item">
@@ -38,7 +38,7 @@
                 <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/cmif.png" alt="Center for Multisource Information Fusion">
             </a>
             <div class="grid-item-content">
-                <h3><a href="https://scholar.google.com/citations?user=nPic3vkAAAAJ">UB Center for Multisource Information Fusion</a></h3>
+                <h3>UB Center for Multisource Information Fusion</h3>
             </div>
         </div>
         <div class="grid-item">
@@ -46,7 +46,7 @@
                 <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/dbi.png" alt="Division of Biomedical Ontology">
             </a>
             <div class="grid-item-content">
-                <h3><a href="https://scholar.google.com/citations?user=nPic3vkAAAAJ">UB Department of Biomedical Informatics</a></h3>
+                <h3>UB Department of Biomedical Informatics</h3>
             </div>
         </div>
     </div>
@@ -56,7 +56,7 @@
                 <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/philosophy.png" alt="Department of Philosophy">
             </a>
             <div class="grid-item-content">
-                <h3><a href="https://scholar.google.com/citations?user=nPic3vkAAAAJ">UB Department of Philosophy</a></h3>
+                <h3>UB Department of Philosophy</h3>
             </div>
         </div>
         <div class="grid-item">
@@ -64,7 +64,7 @@
                 <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/ncor-brazil.png" alt="NCOR Brazil">
             </a>
             <div class="grid-item-content">
-                <h3><a href="https://scholar.google.com/citations?user=nPic3vkAAAAJ">NCOR Brazil</a></h3>
+                <h3>NCOR Brazil</h3>
             </div>
         </div>
         <div class="grid-item">
@@ -72,7 +72,7 @@
                 <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/apl.png" alt="Johns Hopkins University Applied Physics Laboratory">
             </a>
             <div class="grid-item-content">
-                <h3><a href="https://scholar.google.com/citations?user=nPic3vkAAAAJ">Johns Hopkins Applied Physics Laboratory</a></h3>
+                <h3>Johns Hopkins Applied Physics Laboratory</h3>
             </div>
         </div>
     </div>
@@ -82,7 +82,7 @@
                 <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/kadsci.png" alt="KadSci">
             </a>
             <div class="grid-item-content">
-                <h3><a href="https://scholar.google.com/citations?user=nPic3vkAAAAJ">KaDSci</a></h3>
+                <h3>KaDSci</h3>
             </div>
         </div>
         <div class="grid-item">
@@ -90,7 +90,7 @@
                 <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/iad.png" alt="Institute for Artificial Intelligence and Data Science">
             </a>
             <div class="grid-item-content">
-                <h3><a href="https://scholar.google.com/citations?user=nPic3vkAAAAJ">Institute for Artificial Intelligence and Data Science</a></h3>
+                <h3>Institute for Artificial Intelligence and Data Science</h3>
             </div>
         </div>
         <div class="grid-item">
@@ -98,7 +98,7 @@
                 <img src="https://raw.githubusercontent.com/CommonCoreOntology/cco-webpage/main/docs/assets/logos/ncor-logo.png" alt="NCOR">
             </a>
             <div class="grid-item-content">
-                <h3><a href="https://scholar.google.com/citations?user=nPic3vkAAAAJ">NCOR</a></h3>
+                <h3>NCOR</h3>
             </div>
         </div>
     </div>
@@ -108,7 +108,7 @@
                 <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/iof.png" alt="Industrial Ontologies Foundry">
             </a>
             <div class="grid-item-content">
-                <h3><a href="https://scholar.google.com/citations?user=nPic3vkAAAAJ">Industrial Ontology Foundry</a></h3>
+                <h3>Industrial Ontology Foundry</h3>
             </div>
         </div>
         <div class="grid-item">
@@ -116,7 +116,7 @@
                 <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/kga.png" alt="Knowledge Graph Alliance">
             </a>
             <div class="grid-item-content">
-                <h3><a href="https://scholar.google.com/citations?user=nPic3vkAAAAJ">Knowledge Graph Alliance</a></h3>
+                <h3>Knowledge Graph Alliance</h3>
             </div>
         </div>
         <div class="grid-item">
@@ -124,7 +124,7 @@
                 <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/obo.png" alt="The Open Biological and Biomedical Ontologies Foundry">
             </a>
             <div class="grid-item-content">
-                <h3><a href="https://scholar.google.com/citations?user=nPic3vkAAAAJ">The Open Biological and Biomedical Ontologies Foundry</a></h3>
+                <h3>The Open Biological and Biomedical Ontologies Foundry</h3>
             </div>
         </div>
     </div>
