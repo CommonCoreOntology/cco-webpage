@@ -13,7 +13,7 @@
   <li><a href="https://github.com/BFO-ontology/BFO-2020" class="custom-color">BFO GitHub Repository</a></li>
   <li><a href="https://philarchive.org/archive/OTTBBF" class="custom-color">BFO Design Patterns</a></li>
   <li><a href="https://www.ontologyrepository.com/" class="custom-color">CCO Homepage</a></li>
-  <li><a href="https://github.com/CommonCoreOntology/CommonCoreOntologies" class="custom-color">Common Core Ontologies Github Repository</a></li>
+  <li><a href="https://github.com/CommonCoreOntology/CommonCoreOntologies" class="custom-color">CCO Github Repository</a></li>
   <li><a href="https://arxiv.org/pdf/2404.17758" class="custom-color">CCO Design Patterns</a></li>
   <li><a href="https://www.youtube.com/watch?v=ai4YdLiCGNM" class="custom-color">How to Handle Data about What Does Not Exist</a></li>
 </ul>
