@@ -54,7 +54,7 @@
         <div class="grid-item">
                 <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/ncor-brazil.png" alt="NCOR Brazil">
             <div class="grid-item-content">
-                <h3><a href="https://ontology-br.com.br/about/">NCOR Brazil</a></h3>
+                <h3><a href="https://ncor-brasil.org/about/">NCOR Brazil</a></h3>
             </div>
         </div>
         <div class="grid-item">
