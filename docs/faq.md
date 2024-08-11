@@ -14,5 +14,13 @@
     <p>Top-Level Ontologies represent and define entities at a very general level of abstraction. Its terms are applicable to a wide range of ontologies. Domain Ontologies represent and define entities that are highly specific to a particular domain. Therefore, Mid-Level Ontologies represent and define entities at a less general level of abstraction than Top-Level Ontologies but are more general than Domain Ontologies. More information on defining Mid-Level Ontologies can be found <a href="https://arxiv.org/pdf/2404.17757" target+"_blank">here</a>. An <a href="https://standards.ieee.org/ieee/3195/11025/"_blank">IEEE Working Group</a> is developing standards outlining requirements for Mid-Level Ontologies.</p>
   <h2>Who 'Owns' CCO?</h2>
     <p>CCO is a collaborative project that has been developed by Ron Rudnicki, the ontology team at CUBRC, Inc., and ontologists affiliated with NCOR. Future releases of CCO will be overseen by the Common Core Board of Directors. We are open to further collaboration with any interested parties. CCO is openly available under a BSD-3 license.</p>
+  <h2>What's the Easy Way to Use CCO?</h2>
+    <p>placeholder</p>
+  <h2>Why Aren't There More Axioms in CCO?</h2>
+    <p>placeholder</p>
+  <h2>Who Pays for CCO?</h2>
+    <p>placeholder</p>
+  <h2>Why is CCO so Popular?</h2>
+    <p>There are many reasons that CCO is so widely used. One is that it has been built as an expansion of Basic Formal Ontology, the most widely used top-level ontology. CCO has also been built by professional ontologists who have carefully crafted its terms and definitions. Since it was developed by CUBRC, Inc., with close collaboration with the US Department of Defense and Intelligence Communities, it has already been tested for usability in real-world scenarios. </p>
 </body>
 </html>
