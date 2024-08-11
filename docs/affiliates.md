@@ -80,7 +80,7 @@
         <div class="grid-item">
                 <img src="https://raw.githubusercontent.com/CommonCoreOntology/cco-webpage/main/docs/assets/logos/ncor-logo.png" alt="NCOR">
             <div class="grid-item-content">
-                <h3><a href="https://ontology-br.com.br/about/">NCOR</a></h3>
+                <h3><a href="https://ubwp.buffalo.edu/ncor/">NCOR</a></h3>
             </div>
         </div>
     </div>
