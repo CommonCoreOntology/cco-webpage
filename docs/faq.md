@@ -7,5 +7,7 @@
 </head></p>
 <body>
 <h1>Frequently Asked Questions</h1>
+  <h2>How do I open CCO to look through its content?</h2>
+    <p>text</p>
 </body>
 </html>
