@@ -39,6 +39,6 @@
   <h2>How Does CCO Relate to the Industrial Ontology Foundry or the Open Biomedical and Biological Foundry?</h2>
     <p>CCO, IOF, and OBO are all mid-level ontologies. They are also all extensions of BFO, which is used as a common top-level ontology. Because they share this top-level ontology, it is easy to build ontologies using terms from all three of these ontologies.</p>
   <h2>What is the National Center for Ontological Research?</h2>
-    <p><a href="https://ubwp.buffalo.edu/ncor/" target="_blank">The National Center for Ontological Research (NCOR)</a> is an organization of ontologists affiliated with the University at Buffalo and their collaborators. NCOR contributes both to academic research in ontologies and supports commercial and government ontology work, especially through consultancy, training, and outreach.</p>
+    <p><a href="https://ubwp.buffalo.edu/ncor/" target="_blank">The National Center for Ontological Research (NCOR)</a> is an organization of ontologists affiliated with the University at Buffalo and their collaborators. NCOR contributes both to academic research in ontologies and supports commercial and government ontology work, especially through consultancy, training, and outreach. It is directed by Dr. Barry Smith.</p>
 </body>
 </html>
