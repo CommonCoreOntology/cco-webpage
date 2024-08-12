@@ -20,8 +20,9 @@
     </style>
 </head>
 <body>
-    <h1>Common Core Ontologies (CCO)</h1>
-    <p>The <a href="https://github.com/CommonCoreOntology" target="_blank">Common Core Ontologies (CCO)</a> is suite of eleven ontologies which, collectively, comprise a <a href="https://arxiv.org/pdf/2404.17757" target="_blank">mid-level ontology</a>. CCO - initiated by <a href="https://www.cubrc.org/data-science-information-fusion/specialized-data-ontology-development/" target="_blank">CUBRC, Inc</a>. in 2010 under an IARPA Knowledge Discovery and Dissemination grant - is widely-used in defense and intelligence sectors to support data standardization, interoperability, reproducibility, and automated reasoning across numerous domains. Accordingly, CCO development and application was, for many years, conducted without much transparency. As of 2017, however, CCO has been available under a BSD-3 license with a public GitHub repository open to collaboration. Making CCO publicly available has led to significant increase of interest in CCO development. For example, in 2022 the Institute of Electrical and Electronics Engineers (IEEE) <a href="https://standards.ieee.org/ieee/3195/11025/" target="_blank">P3195 Standard for Requirements for a Mid-Level Ontology and Extensions working group</a> initiated a review of CCO to become the first mid-level ontology standard. More recently, in 2024 CCO was endorsed as a “baseline standard” for all <a href="https://www.buffalo.edu/ubnow/stories/2024/03/smith-ontology-standard.html" target="_blank">formal ontology development across the Department of Defense and Intelligence Community</a>. 
+    <h1>The Common Core Ontologies (CCO)</h1>
+    <p>The <a href="https://github.com/CommonCoreOntology" target="_blank">Common Core Ontologies (CCO)</a> is suite of eleven ontologies which, collectively, comprise a <a href="https://arxiv.org/pdf/2404.17757" target="_blank">mid-level ontology</a>. CCO - initiated by <a href="https://www.cubrc.org/data-science-information-fusion/specialized-data-ontology-development/" target="_blank">CUBRC, Inc</a>. in 2010 under an IARPA Knowledge Discovery and Dissemination grant - is widely-used in defense and intelligence sectors to support data standardization, interoperability, reproducibility, and automated reasoning across numerous domains. In 2024, CCO was endorsed as a “baseline standard” for all <a href="https://dailynous.com/wp-content/uploads/2024/03/memo-dod-applied-ontology.pdf" target="_blank">formal ontology development across the Department of Defense and Intelligence Community</a>. In 2022, the Institute of Electrical and Electronics Engineers (IEEE) <a href="https://standards.ieee.org/ieee/3195/11025/" target="_blank">P3195 Standard for Requirements for a Mid-Level Ontology and Extensions working group</a> initiated a review of CCO to become the first mid-level ontology standard.</p> 
+    <p>CCO is available under a BSD-3 license with a public <a href="https://github.com/CommonCoreOntology" target="_blank">Github repository</a> open to collaboration. The canonical version of CCO is built in a profile of OWL2.</p>
 <h1>Common Core Ontologies</h1>     
     <div class="center-text"><img src="https://raw.githubusercontent.com/CommonCoreOntology/cco-webpage/main/docs/assets/logos/BFO-CCO.png" alt="Common Core Ontologies" style="width:75%;"></div>
 <h1>List of Common Core Modules</h1>   
@@ -35,47 +36,47 @@
         <tbody>
             <tr>
                 <td><a href="#">Geospatial Ontology</a></td>
-                <td>Designed to represent sites, spatial regions, and other entities, especially those that are located near the surface of Earth, as well as the relations that hold between them.</td>
+                <td>The scope of this ontology is reserved for the domain of sites, spatial regions, and other entities, especially those that are located near the surface of Earth, as well as the relations that hold between them.</td>
             </tr>
             <tr>
                 <td><a href="#">Information Entity Ontology</a></td>
-                <td>Designed to represent generic types of information as well as the relationships between information and other entities.</td>
+                <td>The scope of this ontology is reserved for the domain of generic types of information as well as the relationships between information and other entities.</td>
             </tr>
             <tr>
                 <td><a href="#">Event Ontology</a></td>
-                <td>Designed to represent processual entities, especially those performed by agents, that occur within multiple domains.</td>
+                <td>The scope of this ontology is reserved for the domain of processual entities, especially those performed by agents, that occur within multiple domains.</td>
             </tr>
             <tr>
                 <td><a href="#">Time Ontology</a></td>
-                <td>Designed to represent temporal regions and the relations that hold between them.</td>
+                <td>The scope of this ontology is reserved for the domain of temporal regions and the relations that hold between them.</td>
             </tr>
             <tr>
                 <td><a href="#">Agent Ontology</a></td>
-                <td>Designed to represent agents, especially persons and organizations, and their roles.</td>
+                <td>The scope of this ontology is reserved for the domain of agents, especially persons and organizations, and their roles.</td>
             </tr>
             <tr>
                 <td><a href="#">Quality Ontology</a></td>
-                <td>Designed to represent a range of attributes of entities especially qualities, realizable entities, and process profiles.</td>
+                <td>The scope of this ontology is reserved for the domain of a range of attributes of entities especially qualities, realizable entities, and process profiles.</td>
             </tr>
             <tr>
                 <td><a href="#">Units of Measure Ontology</a></td>
-                <td>Designed to represent standard measurement units that are used when measuring various attributes of entities.</td>
+                <td>The scope of this ontology is reserved for the domain of standard measurement units that are used when measuring various attributes of entities.</td>
             </tr>
             <tr>
                 <td><a href="#">Currency Unit Ontology</a></td>
-                <td>Designed to represent currencies that are issued and used by countries.</td>
+                <td>The scope of this ontology is reserved for the domain of currencies that are issued and used by countries.</td>
             </tr>
             <tr>
                 <td><a href="#">Facility Ontology</a></td>
-                <td>Designed to represent buildings and campuses that are designed to serve some specific purpose, and which are common to multiple domains.</td>
+                <td>The scope of this ontology is reserved for the domain of buildings and campuses that are designed to serve some specific purpose, and which are common to multiple domains.</td>
             </tr>
             <tr>
                 <td><a href="#">Artifact Ontology</a></td>
-                <td>Designed to represent artifacts that are common to multiple domains along with their models, specifications, and functions.</td>
+                <td>The scope of this ontology is reserved for the domain of artifacts that are common to multiple domains along with their models, specifications, and functions.</td>
             </tr>
             <tr>
                 <td><a href="#">Extended Relations Ontology</a></td>
-                <td>Designed to represent many of the relations that hold between entities at the level of the mid-level Common Core Ontologies.</td>
+                <td>The scope of this ontology is reserved for the domain of many of the relations that hold between entities at the level of the mid-level Common Core Ontologies.</td>
             </tr>
         </tbody>
     </table>

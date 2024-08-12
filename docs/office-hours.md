@@ -22,14 +22,3 @@
 
 <p>As stakeholder questions are addressed, we will also establish an "FAQ" where stakeholders will be directed for vetted answers to commonly posed questions.<p>
 
-<h2>BFO and CCO Resources</h2>
-
-<p>Genuine, robust, semantic mappings across ontologies are challenging to create and there are numerous resources the group has leveraged to make progress:</p>
-<ul>
-  <li><a href="https://basic-formal-ontology.org/" class="custom-color">BFO Homepage</a></li>
-  <li><a href="https://github.com/BFO-ontology/BFO-2020" class="custom-color">BFO GitHub Repository</a></li>
-  <li><a href="https://philarchive.org/archive/OTTBBF" class="custom-color">BFO Design Patterns</a></li>
-  <li><a href="https://www.ontologyrepository.com/" class="custom-color">CCO Homepage</a></li>
-  <li><a href="https://github.com/CommonCoreOntology/CommonCoreOntologies" class="custom-color">CCO GitHub Repository</a></li>
-  <li><a href="https://arxiv.org/pdf/2404.17758" class="custom-color">CCO Design Patterns</a></li>
-</ul>
