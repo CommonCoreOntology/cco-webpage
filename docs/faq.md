@@ -40,5 +40,7 @@
     <p>CCO, IOF, and OBO are all mid-level ontologies. They are also all extensions of BFO, which is used as a common top-level ontology. Because they share this top-level ontology, it is easy to build ontologies using terms from all three of these ontologies.</p>
   <h2>What is the National Center for Ontological Research?</h2>
     <p><a href="https://ubwp.buffalo.edu/ncor/" target="_blank">The National Center for Ontological Research (NCOR)</a> is an organization of ontologists affiliated with the University at Buffalo and their collaborators. NCOR contributes both to academic research in ontologies and supports commercial and government ontology work, especially through consultancy, training, and outreach. It is directed by Dr. Barry Smith.</p>
+  <h2>What is STIDS?</h2>
+    <p>The Semantic Technology for Intelligence, Defense, and Security (STIDS) is an ontology conference focused on topics such as data science, national defense, artificial intelligence, cybersecurity, intelligence gathering, and semantic technologies. Because of the close connection between CCO and the Department of Defense and Intelligence Communities, a lot of the work presented at STIDS is centered around using CCO. More information on the 2024 STIDS conference can be found <a href="" target="_blank">here</a>.</p>
 </body>
 </html>
