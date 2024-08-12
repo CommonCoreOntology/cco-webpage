@@ -22,5 +22,7 @@
     <p>placeholder</p>
   <h2>Why is CCO so Popular?</h2>
     <p>There are many reasons that CCO is so widely used. One is that it has been built as an expansion of Basic Formal Ontology, the most widely used top-level ontology. CCO has also been built by professional ontologists who have carefully crafted its terms and definitions. Since it was developed by CUBRC, Inc., with close collaboration with the US Department of Defense and Intelligence Communities, it has already been tested for usability in real-world scenarios. </p>
+  <h>Who Should I Reach Out to For a Conversation With the Governance Board?</h>
+    <p>The Governance Board can be reached by messaging Dr. John Beverley johnbeve[@]buffalo.edu. He can also be contacted to join the CCO office hours, which meet virtually on Teams biweekly on Fridays, 11am - 12pm.</p>
 </body>
 </html>
