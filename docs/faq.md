@@ -28,5 +28,9 @@
     <p>placeholder</p>
   <h2>Is CCO a Standard?</h2>
     <p>CCO is a baseline standard for all formal ontology work with the Department of Defense and Intelligence Communities, as outlined <a href="https://dailynous.com/wp-content/uploads/2024/03/memo-dod-applied-ontology.pdf" target="_blank">here</a>. The IEEE P3195 Standard for Requirements for a Mid-Level Ontology and Extensions working group is also reviewing CCO to become the first mid-level ontology standard.</p>
+  <h2>How is CCO Versioned?</h2>
+    <p>placeholder</p>
+  <h2>Does CCO Use the Temporalized Relations from BFO?</h2>
+    <p>CCO does not use the Temporalized Relations extension of BFO.</p>
 </body>
 </html>
