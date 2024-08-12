@@ -34,5 +34,7 @@
     <p>CCO does not use the Temporalized Relations extension of BFO.</p>
   <h2>What's Going on With the Modal Relations Ontology?</h2>
     <p>The Modal Relations Ontology is not officially part of the Common Core Ontologies. For those interested in using it, a ttl file of CCO and the Modal Relations Ontology is offered on the official CCO github repo <a href="https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/cco-merged/MergedAllCoreOntology-v1.5-2024-02-14.ttl" target="_blank">here</a>.</p>
+  <h2>Who Do I talk to About Edits to CCO?</h2>
+    <p>Issues in CCO can be pointed out in the <a href="https://github.com/CommonCoreOntology/CommonCoreOntologies/issues" target="_blank">CCO Issue Tracker</a>.</p>
 </body>
 </html>
