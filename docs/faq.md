@@ -36,5 +36,7 @@
     <p>The Modal Relations Ontology is not officially part of the Common Core Ontologies. For those interested in using it, a ttl file of CCO and the Modal Relations Ontology is offered on the official CCO github repo <a href="https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/cco-merged/MergedAllCoreOntology-v1.5-2024-02-14.ttl" target="_blank">here</a>.</p>
   <h2>Who Do I talk to About Edits to CCO?</h2>
     <p>Issues in CCO can be pointed out in the <a href="https://github.com/CommonCoreOntology/CommonCoreOntologies/issues" target="_blank">CCO Issue Tracker</a>.</p>
+  <h2>How Does CCO Relate to the Industrial Ontology Foundry or the Open Biomedical and Biological Foundry?</h2>
+    <p>CCO, IOF, and OBO are all mid-level ontologies. They are also all extensions of BFO, which is used as a common top-level ontology. Because they share this top-level ontology, it is easy to build ontologies using terms from all three of these ontologies.</p>
 </body>
 </html>
