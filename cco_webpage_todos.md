@@ -20,7 +20,7 @@ The following are todo items for the CCO github.  Taken from Mark Jenson's email
 -   [ ] Banner is too big
 -   [ ] CCO needs an icon (do an AI generated ting maybe idk where it woudl go on the page.)
 -   [ ] Edit: initial paragraph to emphasize that it is a public standard.
--   [ ] Hyperlink to some memo that is, I guess, the lead.
+-   [ ] Hyperlink to, and foreground, the memo. It is the lead.
 -   [ ] Decide &#x2013; is it 'Common Core Ontology' or 'The Common Core Ontologies'
 -   [ ] There is a table somewhere.  It has scope statements.  They should be restated to be complete statements.  'Designed to represent x' should become 'The scope for this ontology is reserved for the domain of x'.
 -   [ ] Is it CCO board of Directors or CCO Governance Members?
