@@ -90,6 +90,12 @@
             <a href="https://obofoundry.org/">
                 <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/obo.png" alt="The Open Biological and Biomedical Ontologies Foundry">
             </a>
+           </div>
+           <div class="image">
+            <a href="https://sks.ai/">
+                <img width="1041" alt="Screen Shot 2024-08-27 at 1 51 33 PM" src="https://github.com/user-attachments/assets/8d2c526a-b9f3-480e-958c-abe198b571e3">
+ alt="Summit Knowledge Solutions">
+                    </a>
         </div>
     </div>
 </div>
