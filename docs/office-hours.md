@@ -1,35 +1,23 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>BFO-CCO Office Hours</title>
+<title>NCOR Common Core Ontologies Working Group</title>
 </head>
 <body>
-<h1>BFO-CCO Office Hours</h1>
 
-<p>Given the growing importance of Basic Formal Ontology and the Common Core Ontologies suite, in <a href="https://www.buffalo.edu/cas/philosophy/news/latestnews/smith-top-level-ontologies.html" class="custom-color">defense and intelligence</a>, <a href="https://obofoundry.org/" class="custom-color">biology and medicine</a>, as well as <a href="https://spec.industrialontologies.org/iof/" class="custom-color">service and manufacturing</a>, there is a need for transparency concerning the development and maintenance of these artifacts.</p>
+<h1>Common Core Ontologies Working Group</h1>
+<p>The Common Core Ontologies (CC)) were developed and promoted by <a href="https://scholar.google.com/citations?hl=en&user=JLM7L2EAAAAJ&view_op=list_works&sortby=pubdate" class="custom-color">Ron Rudnicki</a> and is comprised of 11 ontologies extending from Basic Formal Ontology that aim to represent and integrate taxonomies of generic classes and relations across all domains.</p>
 
-<p>With this in mind, the lead developers of BFO and CCO will hold biweekly "office hours" for stakeholders with questions, concerns, comments, or compliments regarding these standards. These office hours will be stakeholder-led, in that discussion during these one hour sessions will be driven by stakeholders attending the meetings. 
+<h2>NCOR CCO WG</h2>
+<p>The aim of the NCOR Common Core Ontologies Working Group (CCOWG) is to cultivate an understanding of, provide contributions to, and promote development of the Common Ontology (CCO) suite. The group is comprised of academics, students, and professionals with a common interest in CCO-based domain ontology engineering.</p>
+<p>The CCOWG is chaired by <a href="https://www.linkedin.com/in/carterbeaubenson/" class="custom-color">Carter Benson</a> and holds weekly hybrid meetings. Meetings regularly involve discussions of CCO-based projects, such as design pattern refinement, alignment with nearby open-source ontologies, and crafting criteria for what counts as a "mid-level" ontology or ontology suite. Please see the minutes from past meetings below for a better understanding of topics covered.</p>
+<p>If you would like to attend CCOWG meetings either in-person or remotely, contact Carter at: carterbe[at]buffalo.edu.</p>
 
-<h2>Logistics</h2>
+<h2>IEEE Ontology Standards WG</h2>
+<p>The Common Core Ontologies have been submitted to the Institute of Electrical and Electronics Engineers (IEEE) as part of a standard for defining mid-level ontologies. This standard, <a href="https://standards.ieee.org/ieee/3195/11025/" class="custom-color">P3195</a> would establish the requirements for an ontology to be a mid-level ontology and defines several ontologies as mid-level ontologies, including CCO.</p>
+<p>This group works on getting P3195 to reach full approval status. If you would like to participate, contact the working group chair, James Schoening, james.schoening@ieee.org.</p>
 
-<ul>
-    <li>When: Biweekly on Fridays, starting May 31st 2024, 11am - 12pm</li>
-    <li>Where: Virtual Meetings on Teams</li>
-</ul>
+<h2>Minutes</h2>
+A summary of actions performed each meeting are recorded and regularly posted.  Please see the <a href="dummylink"> CCOWG Minutes </a> page.
 
-<p>If you are interested in joining one or more office hours, please contact <a href="https://johnbeverley.com/" class="custom-color">John Beverley</a> at johnbeve[@]buffalo.edu. You will be provided a Teams invite for the scheduled time.</p>
-
-<p>In addition to the biweekly office hours, there is an associated Slack channel for the group where stakeholders may continue conversation with the BFO and CCO leads. As above, please contact <a href="https://johnbeverley.com/" class="custom-color">John Beverley</a> at johnbeve[@]buffalo.edu to be added to the BFO-CCO Office Hours Slack channel.</p>
-
-<p>As stakeholder questions are addressed, we will also establish an "FAQ" where stakeholders will be directed for vetted answers to commonly posed questions.<p>
-
-<h2>BFO and CCO Resources</h2>
-
-<p>Genuine, robust, semantic mappings across ontologies are challenging to create and there are numerous resources the group has leveraged to make progress:</p>
-<ul>
-  <li><a href="https://basic-formal-ontology.org/" class="custom-color">BFO Homepage</a></li>
-  <li><a href="https://github.com/BFO-ontology/BFO-2020" class="custom-color">BFO GitHub Repository</a></li>
-  <li><a href="https://philarchive.org/archive/OTTBBF" class="custom-color">BFO Design Patterns</a></li>
-  <li><a href="https://www.ontologyrepository.com/" class="custom-color">CCO Homepage</a></li>
-  <li><a href="https://github.com/CommonCoreOntology/CommonCoreOntologies" class="custom-color">CCO GitHub Repository</a></li>
-  <li><a href="https://arxiv.org/pdf/2404.17758" class="custom-color">CCO Design Patterns</a></li>
-</ul>
+</body>
+</html>
