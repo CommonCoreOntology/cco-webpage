@@ -30,7 +30,8 @@ The following are todo items for the CCO github.  Taken from Mark Jenson's email
 -   [ ] Copy BFO and CCO Resources links to 'Useful Links' section.
 -   [X] Add a FAQ
 -   [-] Add answers to FAQ
--   [ ] Move meeting minutes to their own page.
+-   [x] Move meeting minutes to their own page.
+-   [ ] Working Group Page needs to link to the new wg-minutes page.
 -   [ ] Design Patterns page should be coordinated with updates to documentation (not sure what this means)
 -   [ ] STIDS should not be mentioned
 
