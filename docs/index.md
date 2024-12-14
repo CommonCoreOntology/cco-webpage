@@ -50,31 +50,31 @@
                 <td>Designed to represent temporal regions and the relations that hold between them.</td>
             </tr>
             <tr>
-                <td><a href="#">[Agent Ontology]([url](https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/src/cco-modules/AgentOntology.ttl))</a></td>
+                <td><a href="https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/src/cco-modules/AgentOntology.ttl"> target="_blank">Agent Ontology</a></td>
                 <td>Designed to represent agents, especially persons and organizations, and their roles.</td>
             </tr>
             <tr>
-                <td><a href="#">[Quality Ontology]([url](https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/src/cco-modules/QualityOntology.ttl))</a></td>
+                <td><a href="https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/src/cco-modules/QualityOntology.ttl"> target="_blank">Quality Ontology</a></td>
                 <td>Designed to represent a range of attributes of entities especially qualities, realizable entities, and process profiles.</td>
             </tr>
             <tr>
-                <td><a href="#">[Units of Measure Ontology]([url](https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/src/cco-modules/UnitsOfMeasureOntology.ttl))</a></td>
+                <td><a href="https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/src/cco-modules/UnitsOfMeasureOntology.ttl"> target="_blank">Units of Measure Ontology</a></td>
                 <td>Designed to represent standard measurement units that are used when measuring various attributes of entities.</td>
             </tr>
             <tr>
-                <td><a href="#">[Currency Unit Ontology]([url](https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/src/cco-modules/CurrencyUnitOntology.ttl))</a></td>
-                <td>Designed to represent currencies that are issued and used by countries.</td>
+                <td><a href="https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/src/cco-modules/CurrencyUnitOntology.ttl"> target="_blank">Currency Unit Ontology</a></td>
+                <td>Designed to represent the currencies that countries issue and use.</td>
             </tr>
             <tr>
-                <td><a href="#">[Facility Ontology]([url](https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/src/cco-modules/FacilityOntology.ttl))</a></td>
+                <td><a href="https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/src/cco-modules/FacilityOntology.ttl" target="_blank">Facility Ontology</a></td>
                 <td>Designed to represent buildings and campuses that are designed to serve some specific purpose, and which are common to multiple domains.</td>
             </tr>
             <tr>
-                <td><a href="#">[Artifact Ontology]([url](https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/src/cco-modules/ArtifactOntology.ttl))</a></td>
+                <td><a href="https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/src/cco-modules/ArtifactOntology.ttl"> target="_blank">Artifact Ontology</a></td>
                 <td>Designed to represent artifacts that are common to multiple domains along with their models, specifications, and functions.</td>
             </tr>
             <tr>
-                <td><a href="#">[Extended Relations Ontology]([url](https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/src/cco-modules/ExtendedRelationOntology.ttl))</a></td>
+                <td><a href="https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/src/cco-modules/ExtendedRelationOntology.ttl"> target="_blank">Extended Relations Ontology</a></td>
                 <td>Designed to represent many of the relations that hold between entities at the level of the mid-level Common Core Ontologies.</td>
             </tr>
         </tbody>
