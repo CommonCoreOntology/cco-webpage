@@ -34,7 +34,7 @@
         </thead>
         <tbody>
             <tr>
-                <td><a href="#"[>Geospatial Ontology]([url](https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/src/cco-modules/GeospatialOntology.ttl))</a></td>
+                <td><a href="https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/src/cco-modules/GeospatialOntology.ttl" target="_blank">Geospatial Ontology</a></td>
                 <td>Designed to represent sites, spatial regions, and other entities, especially those that are located near the surface of Earth, as well as the relations that hold between them.</td>
             </tr>
             <tr>
