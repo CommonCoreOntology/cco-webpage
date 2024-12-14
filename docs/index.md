@@ -38,15 +38,15 @@
                 <td>Designed to represent sites, spatial regions, and other entities, especially those that are located near the surface of Earth, as well as the relations that hold between them.</td>
             </tr>
             <tr>
-                <td><a href="#">[Information Entity Ontology]([url](https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/src/cco-modules/InformationEntityOntology.ttl))</a></td>
+                <td><a href="https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/src/cco-modules/InformationEntityOntology.ttl" target="_blank">Information Entity Ontology</a></td>
                 <td>Designed to represent generic types of information as well as the relationships between information and other entities.</td>
             </tr>
             <tr>
-                <td><a href="#">[Event Ontology]([url](https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/src/cco-modules/EventOntology.ttl))</a></td>
+                <td><a href="https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/src/cco-modules/EventOntology.ttl" target="_blank">Event Ontology</a></td>
                 <td>Designed to represent processual entities, especially those performed by agents, that occur within multiple domains.</td>
             </tr>
             <tr>
-                <td><a href="#">[Time Ontology]([url](https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/src/cco-modules/TimeOntology.ttl))</a></td>
+                <td><a href="https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/src/cco-modules/TimeOntology.ttl" target="_blank">Time Ontology</a></td>
                 <td>Designed to represent temporal regions and the relations that hold between them.</td>
             </tr>
             <tr>
