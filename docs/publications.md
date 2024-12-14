@@ -10,9 +10,6 @@
             line-height: 1.6;
             margin: 0px;
         }
-        h1, h2, h3 {
-            color: #333;
-        }
         p {
             margin-bottom: 15px;
         }
