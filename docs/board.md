@@ -40,12 +40,12 @@
     </style>
 </head>
 <body>
-    <h1>The Common Core Ontologies (CCO) Board of Directors</h1>
+    <h1>The Common Core Board of Directors</h1>
     <p>
-        The <a href="https://github.com/CommonCoreOntology" target="_blank">Common Core Ontologies (CCO)</a> have become, over the last decade, an increasingly important resource for the U.S. Government. This mid-level ontology suite is currently used by dozens of organizations and deployed in critical systems in active operation. To date, CCO has been developed and maintained by Ron Rudnicki and the ontology team at CUBRC, Inc., who have overseen successive releases of CCO that have always sought to meet the needs of a growing number of end users. Through the ingenuity and discipline of this team, CCO has remained a touchstone for ontology development, reducing the time needed to develop jointly interoperable high-quality domain ontologies aligned to <a href="https://github.com/BFO-ontology/BFO-2020" target="_blank">Basic Formal Ontology (BFO)</a>. As a result, CCO has continued to receive greater adoption, and will become a central component of the DoD IC Ontology Foundry. In particular, both BFO and CCO have been directed for use in the communities as baseline standards for ontology development.
+        The <a href="https://github.com/CommonCoreOntology" target="_blank">Common Core Ontologies (CCO)</a> have become, over the last decade, an increasingly important resource for the U.S. Government. This mid-level ontology suite is currently used by dozens of organizations and deployed in critical systems in active operation. Prior to 2023, CCO was developed and maintained by Ron Rudnicki, Mark Jensen, and Alex Cox at CUBRC, Inc., who oversaw successive releases of CCO designed to meet the needs of a growing number of end users. Through the ingenuity and discipline of this team, CCO remained a touchstone for ontology development, reducing the time needed to develop jointly interoperable high-quality domain ontologies aligned to <a href="https://github.com/BFO-ontology/BFO-2020" target="_blank">Basic Formal Ontology (BFO)</a>. As a result, CCO has continued to receive greater adoption, and will become a central component of the DoD IC Ontology Foundry. In particular, both BFO and CCO have been directed for use in the communities as <a href="https://www.buffalo.edu/ubnow/stories/2024/03/smith-ontology-standard.html" target="_blank">baseline standards</a> for ontology development.
     </p>
     <p>
-        In recognition of the need for CCO to continue to scale and evolve, future releases of CCO will be overseen by The Common Core Board of Directors, which will have an established charter and bylaws and will be composed of representatives from stake-holder organizations who have been involved in CCO development through the past decade. 
+        In recognition of the need for CCO to continue to scale and evolve, future releases of CCO will be overseen by The Common Core Board of Directors, which is composed of representatives from stakeholder organizations who have been involved in CCO development through the past decade. The board will, moreover, be supplemented by a Common Core Developer Group, which will work with the board to ensure the various needs of stakeholders are satisfied. 
     </p>
     <p>
         This board shall be charged with ensuring that CCO is openly available, well-maintained, responsive to user needs and technological and theoretical changes, and independent of any undue influence imposed by a single project or organization. Additionally, the board will pursue:
@@ -61,10 +61,8 @@
         <li>Coordinating with The Industrial Ontology Foundry, The Open Biomedical and Biological Ontology Foundry, and The DoD-IC Ontology Foundry</li>
         <li>Ensuring that CCO is responsive to the needs of U.S. Government stakeholders</li>
     </ul>
-
     <div class="divider" style="width: 100%; height: 2px; background-color: #333; margin: 5px 20px;"></div>
-
-    <p style="font-size:25px"><center><b>CCO Board of Directors</b></center></p>
+    <p style="font-size:25px"><center><b>Common Core Board of Directors</b></center></p>
     <div class="grid-container">
         <div class="grid-item">
             <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/mark_jensen_head_shot_sm-e1486422487967-300x279.jpg" alt="Mark Jensen">
@@ -97,11 +95,8 @@
             </div>
         </div>
     </div>
-
     <div class="divider" style="width: 100%; height: 2px; background-color: #333; margin: 5px 20px;"></div>
-
-    <p style="font-size:25px"><center><b>CCO Governance Members</b></center></p>
-
+    <p style="font-size:25px"><center><b>Common Core Developer Group</b></center></p>
     <div class="grid-container">
         <div class="grid-item">
             <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Alan-Ruttenberg-300x225.jpg" alt="Alan Ruttenberg">
@@ -127,6 +122,13 @@
                 <h3><a href="https://www.researchgate.net/profile/Olivia-Hobai">Olivia Hobai</a></h3>
             </div>
         </div>
+        <div class="grid-item">
+            <img src="https://raw.githubusercontent.com/CommonCoreOntology/cco-webpage/main/docs/assets/carter.png" alt="Carter Benson" width="200" height="200">
+            <div class="grid-item-content">
+                <h3><a href="https://www.linkedin.com/in/carterbeaubenson/">Carter Benson</a></h3>
+            </div>
+        </div>
     </div>
 </body>
 </html>
+
