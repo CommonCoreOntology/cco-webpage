@@ -22,6 +22,8 @@
     <h2>Journal Publications</h2>
       <li><a href="https://www.utwente.nl/en/eemcs/fois2024/resources/papers/jensen-et-al-the-common-core-ontologies.pdf" class="custom-color">The Common Core Ontologies</a></li>
       <li><a href="https://philpapers.org/archive/MORJDO.pdf" class="custom-color">Joint Doctrine Ontology</a></li> 
+      <li><a href="https://arxiv.org/pdf/2408.03866" class="custom-color">Mapping the Provenance Ontology to Basic Formal Ontology</a></li> 
+    
 </body>
 </html>
 
