@@ -52,7 +52,7 @@
     </p>
     <ul>
         <li>Funding for maintenance and development of CCO</li>
-        <li>Ensuring that CCO is adopted as an IEEE standard mid-level ontology</li>
+        <li>Ensuring that CCO is adopted as an standard mid-level ontology</li>
         <li>Creating a developer’s group for CCO that is empowered but subject to clear oversight</li>
         <li>Organizing conferences, virtual meetings, and so on in service of the CCO community</li>
         <li>Maturing CCO’s release process and associated documentation</li>
