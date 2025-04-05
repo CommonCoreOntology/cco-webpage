@@ -1,0 +1,18 @@
+{
+  "name": "your-project-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "website"
+  ],
+  "scripts": {
+    "start": "npm run --prefix website start",
+    "build": "npm run --prefix website build",
+    "serve": "npm run --prefix website serve",
+    "clear": "npm run --prefix website clear",
+    "deploy": "npm run --prefix website deploy"
+  },
+  "engines": {
+    "node": ">=18.0"
+  }
+} 
