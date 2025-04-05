@@ -421,3 +421,85 @@ article h1:first-child {
     width: 100%;
   }
 }
+
+/* Improved Footer Mobile Styling */
+@media (max-width: 996px) {
+  .footer__col {
+    flex-basis: 100% !important;
+    max-width: 100% !important;
+    margin-bottom: 2rem;
+    padding-right: 0;
+    margin-right: 0;
+  }
+  
+  .footer__title {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+    padding-left: 0;  /* Remove any left padding */
+    text-align: left;  /* Force left alignment */
+  }
+  
+  .footer__link-item {
+    font-size: 1rem;
+    line-height: 2;
+  }
+  
+  /* Improve spacing for contact info */
+  .footer__col:last-child {
+    margin-bottom: 0;
+  }
+  
+  /* Increase readability of NCOR description */
+  .footer__col:first-child p {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 0;
+  }
+  
+  /* Stack columns in better order */
+  .footer__links {
+    flex-direction: column;
+  }
+  
+  /* Ensure all footer content has consistent alignment */
+  .footer__col {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  
+  /* Make contact information align with headings */
+  .footer__col:last-child div {
+    padding-left: 0;
+    margin-left: 0;
+  }
+  
+  /* Fix any SVG icon alignment in contact section */
+  .footer__col:last-child svg {
+    margin-left: 0;
+  }
+  
+  /* Remove any HTML-specific margins that might be causing issues */
+  .footer__col:first-child .footer__items div,
+  .footer__col:last-child .footer__items div {
+    margin-left: 0;
+    padding-left: 0;
+  }
+}
+
+/* Extra small device improvements */
+@media (max-width: 480px) {
+  .footer {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  
+  .footer__bottom {
+    flex-direction: column;
+  }
+  
+  .footer__copyright {
+    margin-top: 1rem;
+    text-align: center;
+  }
+}

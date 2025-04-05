@@ -74,7 +74,7 @@ export default function Home() {
                 </p>
                 <div className="text--center margin-top--lg">
                   <Link
-                    className="button button--primary button--lg"
+                    className={clsx('button', styles.heroButton, styles.heroButtonPrimary)}
                     to="/docs/about/mission">
                     Learn More
                   </Link>
