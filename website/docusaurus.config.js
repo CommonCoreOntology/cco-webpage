@@ -23,7 +23,8 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'CommonCoreOntology', // Usually your GitHub org/user name.
-  projectName: 'cco-webpage', // Usually your repo name.
+  projectName: 'commoncoreontology.github.io', // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

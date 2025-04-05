@@ -72,6 +72,13 @@ export default function Home() {
                   ontology standard. More recently, in 2024 CCO was endorsed as a "baseline standard" for all formal 
                   ontology development across the Department of Defense and Intelligence Community.
                 </p>
+                <div className="text--center margin-top--lg">
+                  <Link
+                    className="button button--primary button--lg"
+                    to="/docs/about/mission">
+                    Learn More
+                  </Link>
+                </div>
               </div>
             </div>
           </div>

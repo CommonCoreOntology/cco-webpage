@@ -116,7 +116,7 @@ Once you're familiar with the basics:
 1. **Explore Design Patterns** - Learn about the [specific design patterns](/docs/design-patterns) CCO offers
 2. **Join Working Groups** - Participate in [CCO working groups](/docs/support/working-groups)
 3. **Attend Office Hours** - Get help at [scheduled office hours](/docs/support/office-hours)
-4. **Review Documentation** - Dive deeper into the [complete documentation](/docs)
+4. **Review Documentation** - Dive deeper into the complete documentation
 
 ## Need Help?
 

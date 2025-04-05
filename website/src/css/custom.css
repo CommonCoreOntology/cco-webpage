@@ -332,3 +332,92 @@ article h1:first-child {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
 }
+
+/* Board of Directors page styling */
+.board-members-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.board-member {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: calc(33.33% - 1.5rem);
+  min-width: 250px;
+  background: #fff;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.board-member:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.board-member-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border: 3px solid #f0f7ff;
+}
+
+.board-member-info {
+  text-align: center;
+  width: 100%;
+}
+
+.board-member-info h3 {
+  font-family: 'Merriweather', serif;
+  margin-bottom: 0.25rem;
+  font-size: 1.25rem;
+  color: #333;
+}
+
+.board-member-role {
+  color: var(--ifm-color-primary);
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+  font-size: 0.95rem;
+}
+
+.board-member-affiliation {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+/* Dark mode adjustments */
+[data-theme='dark'] .board-member {
+  background: #2d2d2d;
+}
+
+[data-theme='dark'] .board-member-info h3 {
+  color: #f5f5f5;
+}
+
+[data-theme='dark'] .board-member-affiliation {
+  color: #aaa;
+}
+
+/* Responsive design */
+@media (max-width: 996px) {
+  .board-member {
+    width: calc(50% - 1rem);
+  }
+}
+
+@media (max-width: 576px) {
+  .board-members-container {
+    gap: 1.5rem;
+  }
+  
+  .board-member {
+    width: 100%;
+  }
+}
