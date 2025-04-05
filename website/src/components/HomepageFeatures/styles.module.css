@@ -1,0 +1,140 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 4rem 0;
+  width: 100%;
+  background-color: var(--custom-background-color);
+}
+
+.moduleSvg {
+  height: 200px;
+  width: 200px;
+}
+
+.modulesWrapper {
+  padding: 2rem 0;
+}
+
+.moduleContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 2rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.moduleCard {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  transition: var(--custom-transition);
+  box-shadow: var(--custom-shadow);
+  border-radius: var(--custom-border-radius);
+  padding: 1.5rem;
+  position: relative;
+  border-top: 4px solid var(--ifm-color-primary);
+  animation: fadeIn 0.6s ease-out backwards;
+}
+
+.moduleCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.12);
+}
+
+.moduleLink {
+  text-decoration: none;
+  color: var(--ifm-color-primary);
+  transition: var(--custom-transition);
+}
+
+.moduleLink:hover {
+  text-decoration: none;
+  color: var(--ifm-color-primary-darker);
+}
+
+.modulesTitle {
+  text-align: center;
+  margin-bottom: 0.5rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.modulesSubtitle {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 1.2rem;
+  opacity: 0.8;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.moduleIconWrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.moduleIcon {
+  font-size: 1.8rem;
+  background: linear-gradient(135deg, var(--ifm-color-primary-lighter), var(--ifm-color-primary-darker));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.moduleTitle {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  line-height: 1.3;
+}
+
+.moduleDescription {
+  flex-grow: 1;
+  margin-bottom: 1.5rem;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--ifm-font-color-base);
+  opacity: 0.8;
+}
+
+.moduleButton {
+  align-self: flex-start;
+  border-color: var(--ifm-color-primary);
+  color: var(--ifm-color-primary);
+  border-radius: 4px;
+  font-weight: 500;
+  transition: var(--custom-transition);
+}
+
+.moduleButton:hover {
+  background-color: var(--ifm-color-primary);
+  color: white;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media screen and (max-width: 996px) {
+  .moduleContainer {
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+  }
+  
+  .modulesTitle {
+    font-size: 2rem;
+  }
+  
+  .modulesSubtitle {
+    font-size: 1rem;
+  }
+}
