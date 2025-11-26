@@ -48,28 +48,55 @@ def esc(s: str) -> str:
 
 classes = sorted({s for s in g.subjects(RDF.type, OWL.Class) if isinstance(s, URIRef)}, key=lambda x: str(x))
 objprops = sorted({s for s in g.subjects(RDF.type, OWL.ObjectProperty) if isinstance(s, URIRef)}, key=lambda x: str(x))
+dataprops = sorted({s for s in g.subjects(RDF.type, OWL.DatatypeProperty) if isinstance(s, URIRef)}, key=lambda x: str(x))
 
 def render_term(iri: URIRef, kind: str):
     L = label(iri) or local_id(iri)
     lid = local_id(iri)
     slug = slugify(L)
     dfn = definition(iri)
+    if kind == "objprop":
+        display_kind = "object property"
+    elif kind == "dataprop":
+        display_kind = "data property"
+    else:
+        display_kind = kind
     sup = supers(iri) if kind == "class" else []
-    dom = domain(iri) if kind == "objprop" else []
-    rng = range_(iri) if kind == "objprop" else []
+    dom = domain(iri) if kind in ("objprop", "dataprop") else []
+    rng = range_(iri) if kind in ("objprop", "dataprop") else []
     out = []
     out.append(f'<div class="term" id="{esc(lid)}">')
     out.append(f'  <a class="anchor" id="{esc(slug)}"></a>')
-    out.append(f'  <h3>{esc(L)} <small>({kind})</small></h3>')
-    out.append(f'  <p><b>IRI:</b> <code>{esc(str(iri))}</code></p>')
+    out.append(f'  <h3>{esc(L)} <small>({esc(display_kind)})</small></h3>')
+    out.append(
+        f'  <p><b>IRI:</b> <code><a href="{esc(str(iri))}">{esc(str(iri))}</a></code></p>'
+    )
     if dfn:
         out.append(f'  <p><b>Definition:</b> {esc(dfn)}</p>')
     if sup:
-        out.append('  <p><b>Subclass of:</b> ' + ", ".join(f'<code>{esc(s)}</code>' for s in sup) + '</p>')
+        sup_links = []
+        for s in sup:
+            uri = URIRef(s)
+            lbl = label(uri) or local_id(uri)
+            anchor = local_id(uri)
+            sup_links.append(f'<a href="#{esc(anchor)}">{esc(lbl)}</a>')
+        out.append('  <p><b>Subclass of:</b> ' + ", ".join(sup_links) + '</p>')
     if dom:
-        out.append('  <p><b>Domain:</b> ' + ", ".join(f'<code>{esc(s)}</code>' for s in dom) + '</p>')
+        dom_links = []
+        for s in dom:
+            uri = URIRef(s)
+            lbl = label(uri) or local_id(uri)
+            anchor = local_id(uri)
+            dom_links.append(f'<a href="#{esc(anchor)}">{esc(lbl)}</a>')
+        out.append('  <p><b>Domain:</b> ' + ", ".join(dom_links) + '</p>')
     if rng:
-        out.append('  <p><b>Range:</b> ' + ", ".join(f'<code>{esc(s)}</code>' for s in rng) + '</p>')
+        rng_links = []
+        for s in rng:
+            uri = URIRef(s)
+            lbl = label(uri) or local_id(uri)
+            anchor = local_id(uri)
+            rng_links.append(f'<a href="#{esc(anchor)}">{esc(lbl)}</a>')
+        out.append('  <p><b>Range:</b> ' + ", ".join(rng_links) + '</p>')
     out.append('  <p class="permalinks"><b>Permalinks:</b> '
                f'<a href="#{esc(lid)}">#{esc(lid)}</a> '
                f'<a href="#{esc(slug)}">#{esc(slug)}</a></p>')
@@ -107,12 +134,17 @@ footer{padding:32px;color:#6D7A84}
   <div class="group-list" style="margin-top:12px;"><b>Object Properties</b>
     __OBJPROP_LINKS__
   </div>
+  <div class="group-list" style="margin-top:12px;"><b>Data Properties</b>
+    __DATAPROP_LINKS__
+  </div>
 </nav>
 <section id="content">
   <h2>Classes</h2>
   __CLASSES__
   <h2 style="margin-top:40px;">Object Properties</h2>
   __OBJPROPS__
+  <h2 style="margin-top:40px;">Data Properties</h2>
+  __DATAPROPS__
 </section>
 </main>
 <footer>Generated from CommonCoreOntologiesMerged.ttl</footer>
@@ -128,20 +160,31 @@ function filterTerms(q){
 </html>"""
 
 class_links = "\n".join(
-    f'<a href="#{html.escape(local_id(c))}">{html.escape(label(c) or local_id(c))}</a>' for c in classes
+    f'<a href="#{esc(local_id(c))}">{esc((label(c) or local_id(c)) + (" (bfo)" if "obo/BFO_" in str(c) else ""))}</a>'
+    for c in sorted(classes, key=lambda x: (label(x) or local_id(x)).lower())
 )
+
 objprop_links = "\n".join(
-    f'<a href="#{html.escape(local_id(p))}">{html.escape(label(p) or local_id(p))}</a>' for p in objprops
+    f'<a href="#{esc(local_id(p))}">{esc((label(p) or local_id(p)) + (" (bfo)" if "obo/BFO_" in str(p) else ""))}</a>'
+    for p in sorted(objprops, key=lambda x: (label(x) or local_id(x)).lower())
+)
+
+dataprop_links = "\n".join(
+    f'<a href="#{esc(local_id(d))}">{esc((label(d) or local_id(d)) + (" (bfo)" if "obo/BFO_" in str(d) else ""))}</a>'
+    for d in sorted(dataprops, key=lambda x: (label(x) or local_id(x)).lower())
 )
 
 classes_html = "\n".join(render_term(c, "class") for c in classes)
 objprops_html = "\n".join(render_term(p, "objprop") for p in objprops)
+dataprops_html = "\n".join(render_term(d, "dataprop") for d in dataprops)
 
 page = (html_head
         .replace("__CLASS_LINKS__", class_links)
         .replace("__OBJPROP_LINKS__", objprop_links)
+        .replace("__DATAPROP_LINKS__", dataprop_links)
         .replace("__CLASSES__", classes_html)
-        .replace("__OBJPROPS__", objprops_html))
+        .replace("__OBJPROPS__", objprops_html)
+        .replace("__DATAPROPS__", dataprops_html))
 
 OUTPUT.write_text(page, encoding="utf-8")
 print(f"Wrote {OUTPUT}")
