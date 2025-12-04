@@ -19,22 +19,23 @@ extra_css:
   - stylesheets/extra.css
   
 nav:
-  - About: 
-    - Mission: index.md
-    - Board of Directors: board.md
-    - Affiliates: affiliates.md
-    - Users: users.md
-    - Publications: publications.md
-    #- CCO FAQ: cco-faq.md
-  - Support: 
-    - Office Hours: office-hours.md
-    - Working Groups: working-groups.md
-    - Useful Links: useful-links.md
-    - Frequently Asked Questions: faq.md
-  - Design Patterns: 
-    - Geospatial Tracking: geospatial-tracking.md
-    - Information Model: information.md 
-    #- Stasis: stasis.md
+  - About:
+      - Mission: index.md
+      - Board of Directors: board.md
+      - Affiliates: affiliates.md
+      - Users: users.md
+      - Publications: publications.md
+      # - CCO FAQ: cco-faq.md
+  - Support:
+      - Office Hours: office-hours.md
+      - Working Groups: working-groups.md
+      - Useful Links: useful-links.md
+      - Frequently Asked Questions: faq.md
+  - Design Patterns:
+      - Geospatial Tracking: geospatial-tracking.md
+      - Information Model: information.md
+      # - Stasis: stasis.md
+  - CCO Classes and Relations: https://tinazunner.github.io/cco-webpage/
 
 extra:
   social:
