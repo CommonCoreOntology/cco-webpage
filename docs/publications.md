@@ -55,8 +55,6 @@ Describes how the Common Core Ontologies model information, including distinctio
 
 <h2>Journal and Conference Publications</h2>
 
-<p><em>Newest to oldest</em></p>
-
 <p>
 <strong>
   <a href="https://philpapers.org/archive/JENTCC-3.pdf" class="custom-color">
