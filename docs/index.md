@@ -35,10 +35,10 @@ In 2022, the Institute of Electrical and Electronics Engineers (IEEE) <a href="h
 CCO is a maintained, modular mid-level ontology suite intended to support reuse, extension, and alignment across domain ontologies and ontology-driven systems. The core modules are designed to remain stable over time, while domain extensions and application-specific ontologies evolve to meet emerging use cases. Development is ongoing and community-informed, with public documentation and discussion supporting transparent adoption and use.
 </p>
 
+<h1>Common Core Ontologies</h1>
 <p>
 The diagram below illustrates the structure of CCO and its core modules, showing how they extend from Basic Formal Ontology and support domain-specific extensions.
 </p>
-<h1>Common Core Ontologies</h1>     
     <div class="center-text"><img src="https://raw.githubusercontent.com/CommonCoreOntology/cco-webpage/main/docs/assets/logos/BFO-CCO.png" alt="Common Core Ontologies" style="width:75%;"></div>
 <h1>List of Common Core Modules</h1>
 <p>
