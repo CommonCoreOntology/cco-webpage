@@ -31,7 +31,7 @@ As stakeholder questions are addressed, an FAQ will be developed to provide vett
 <h2>Related Resources</h2>
 
 <p>
-Links to documentation, repositories, and design guidance for the Common Core Ontologies (CCO) and Basic Formal Ontology (BFO) are maintained on the <a href="/useful-links/" class="custom-color">Useful Links</a> page, where they are collected in one place for easy reference.
+Documentation, repositories, and design resources for the Common Core Ontologies (CCO), including related BFO materials, are collected on the <a href="/useful-links/" class="custom-color">Useful Links</a> page.
 </p>
 
 </body>
