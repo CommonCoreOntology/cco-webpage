@@ -28,14 +28,12 @@ In addition to the biweekly office hours, an associated Slack channel is availab
 As stakeholder questions are addressed, an FAQ will be developed to provide vetted answers to commonly posed questions.
 </p>
 
-<h2>BFO and CCO Resources</h2>
+<h2>Related Resources</h2>
 
-<p>Genuine, robust, semantic mappings across ontologies are challenging to create and there are numerous resources the group has leveraged to make progress:</p>
-<ul>
-  <li><a href="https://basic-formal-ontology.org/" class="custom-color">BFO Homepage</a></li>
-  <li><a href="https://github.com/BFO-ontology/BFO-2020" class="custom-color">BFO GitHub Repository</a></li>
-  <li><a href="https://philarchive.org/archive/OTTBBF" class="custom-color">BFO Design Patterns</a></li>
-  <li><a href="https://www.ontologyrepository.com/" class="custom-color">CCO Homepage</a></li>
-  <li><a href="https://github.com/CommonCoreOntology/CommonCoreOntologies" class="custom-color">CCO GitHub Repository</a></li>
-  <li><a href="https://arxiv.org/pdf/2404.17758" class="custom-color">CCO Design Patterns</a></li>
-</ul>
+<p>
+Links to documentation, repositories, and design guidance for the Common Core Ontologies (CCO) and Basic Formal Ontology (BFO) are maintained on the <a href="/useful-links/" class="custom-color">Useful Links</a> page, where they are collected in one place for easy reference.
+</p>
+
+</body>
+</html>
+
