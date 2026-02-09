@@ -3,18 +3,40 @@
 <title>NCOR Common Core Ontologies Working Group</title>
 </head>
 <body>
-<h1>Common Core Ontologies Working Group</h1>
+<h1>Common Core Ontologies Working Groups</h1>
 
-<p>The Common Core Ontologies (CC)) were developed and promoted by <a href="https://scholar.google.com/citations?hl=en&user=JLM7L2EAAAAJ&view_op=list_works&sortby=pubdate" class="custom-color">Ron Rudnicki</a> and is comprised of 11 ontologies extending from Basic Formal Ontology that aim to represent and integrate taxonomies of generic classes and relations across all domains.</p>
+<p>
+The Common Core Ontologies (CCO) comprise a suite of eleven interoperable ontologies extending from Basic Formal Ontology. Together, they aim to represent and integrate generic classes and relations across domains in a consistent and interoperable manner. This page describes active working groups that support the development, use, and standardization of the Common Core Ontologies.
+</p>
 
-<h2>NCOR CCO WG</h2>
-<p>The aim of the NCOR Common Core Ontologies Working Group (CCOWG) is to cultivate an understanding of, provide contributions to, and promote development of the Common Ontology (CCO) suite. The group is comprised of academics, students, and professionals with a common interest in CCO-based domain ontology engineering.</p>
-<p>The CCOWG is chaired by <a href="https://www.linkedin.com/in/giacomodecolle/" class="custom-color">Giacomo De Colle</a> and holds weekly hybrid meetings. Meetings regularly involve discussions of CCO-based projects, such as design pattern refinement, alignment with nearby open-source ontologies, and crafting criteria for what counts as a "mid-level" ontology or ontology suite. Please see the minutes from past meetings below for a better understanding of topics covered.</p>
-<p>If you would like to attend CCOWG meetings either in-person or remotely, contact Carter at: carterbe[at]buffalo.edu.</p>
+<h2>NCOR Common Core Ontologies Working Group (CCOWG)</h2>
 
-<h2>IEEE Ontology Standards WG</h2>
-<p>The Common Core Ontologies have been submitted to the Institute of Electrical and Electronics Engineers (IEEE) as part of a standard for defining mid-level ontologies. This standard, <a href="https://standards.ieee.org/ieee/3195/11025/" class="custom-color">P3195</a> would establish the requirements for an ontology to be a mid-level ontology and defines several ontologies as mid-level ontologies, including CCO.</p>
-<p>This group works on getting P3195 to reach full approval status. If you would like to participate, contact the working group chair, James Schoening, james.schoening@ieee.org.</p>
+<p>
+The NCOR Common Core Ontologies Working Group focuses on cultivating understanding of, contributing to, and promoting the development of the Common Core Ontologies suite. The group includes academics, students, and professionals with a shared interest in CCO-based domain ontology engineering.
+</p>
+
+<p>
+The CCOWG is chaired by <a href="https://www.linkedin.com/in/giacomodecolle/" class="custom-color">Giacomo De Colle</a> and holds weekly hybrid meetings. Discussions regularly include CCO-based projects such as design pattern refinement, alignment with related open-source ontologies, and the development of criteria for what counts as a mid-level ontology or ontology suite. Minutes from past meetings are listed below to provide an overview of topics covered.
+</p>
+
+<p>
+If you would like to attend CCOWG meetings either in person or remotely, please contact Carter at carterbe[at]buffalo.edu.
+</p>
+
+<h2>IEEE Ontology Standards Working Group (P3195)</h2>
+
+<p>
+The Common Core Ontologies have been submitted to the Institute of Electrical and Electronics Engineers (IEEE) as part of a proposed standard for defining mid-level ontologies. The proposed standard, <a href="https://standards.ieee.org/ieee/3195/11025/" class="custom-color">IEEE P3195</a>, aims to establish requirements for what qualifies as a mid-level ontology and identifies several candidate ontologies, including CCO.
+</p>
+
+<p>
+This working group focuses on advancing P3195 toward full approval status. If you would like to participate, please contact the working group chair, James Schoening, at james.schoening@ieee.org.
+</p>
+
+
+<p>
+Summaries of past NCOR CCO Working Group meetings are listed below to provide transparency into ongoing discussions, design decisions, and areas of active development.
+</p>
 
 <h2>Minutes</h2>
 <a href="https://drive.google.com/file/d/1b1XX34WafCgCVQ4YB-PSrtyXeu836CaV/view?usp=drive_link">NCOR CCO Summary - October 02</a><br>
