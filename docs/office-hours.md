@@ -27,12 +27,14 @@ In addition to the biweekly office hours, an associated Slack channel is availab
 <p>
 As stakeholder questions are addressed, an FAQ will be developed to provide vetted answers to commonly posed questions.
 </p>
+
 <h2>Related Resources</h2>
 
 <p>
-Documentation, repositories, and design resources for the Common Core Ontologies (CCO), including related BFO materials, are collected on the <a href="useful-links/" class="custom-color">Useful Links</a> page.
+Documentation, repositories, and design resources for the Common Core Ontologies (CCO), including related BFO materials, are collected on the <a href="../useful-links/" class="custom-color">Useful Links</a> page.
 </p>
 
 </body>
 </html>
+
 
