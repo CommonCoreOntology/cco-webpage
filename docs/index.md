@@ -30,10 +30,21 @@ Since becoming publicly available under a BSD-3 license in 2017, with an open <a
 <br><br>
 In 2022, the Institute of Electrical and Electronics Engineers (IEEE) <a href="https://standards.ieee.org/ieee/3195/11025/" target="_blank">P3195 working group</a> initiated a review of CCO as part of an effort to define requirements for mid-level ontologies. More recently, in 2024, CCO was endorsed as a baseline standard for formal ontology development across the <a href="https://www.buffalo.edu/ubnow/stories/2024/03/smith-ontology-standard.html" target="_blank">U.S. Department of Defense and Intelligence Community</a>.
 </p>
+    <h2>Status and Scope</h2>
+<p>
+CCO is a maintained, modular mid-level ontology suite intended to support reuse, extension, and alignment across domain ontologies and ontology-driven systems. The core modules are designed to remain stable over time, while domain extensions and application-specific ontologies evolve to meet emerging use cases. Development is ongoing and community-informed, with public documentation and discussion supporting transparent adoption and use.
+</p>
+
+<p>
+The diagram below illustrates the structure of CCO and its core modules, showing how they extend from Basic Formal Ontology and support domain-specific extensions.
+</p>
 <h1>Common Core Ontologies</h1>     
     <div class="center-text"><img src="https://raw.githubusercontent.com/CommonCoreOntology/cco-webpage/main/docs/assets/logos/BFO-CCO.png" alt="Common Core Ontologies" style="width:75%;"></div>
-<h1>List of Common Core Modules</h1>   
-    <table>
+<h1>List of Common Core Modules</h1>
+<p>
+The table below lists the core CCO modules and summarizes the scope of each, illustrating how the suite provides reusable, domain-neutral building blocks for applied ontology development.
+</p>
+<table>
         <thead>
             <tr>
                 <th>Common Core Module</th>
