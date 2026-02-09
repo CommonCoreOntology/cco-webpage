@@ -33,12 +33,10 @@ The Common Core Ontologies have been submitted to the Institute of Electrical an
 This working group focuses on advancing P3195 toward full approval status. If you would like to participate, please contact the working group chair, James Schoening, at james.schoening@ieee.org.
 </p>
 
-
+<h2>Minutes</h2>
 <p>
 Summaries of past NCOR CCO Working Group meetings are listed below to provide transparency into ongoing discussions, design decisions, and areas of active development.
 </p>
-
-<h2>Minutes</h2>
 <a href="https://drive.google.com/file/d/1b1XX34WafCgCVQ4YB-PSrtyXeu836CaV/view?usp=drive_link">NCOR CCO Summary - October 02</a><br>
 <a href="https://drive.google.com/file/d/1nagvwEjoQ_FVTySlHczqRmylJ9qvqywk/view?usp=drive_link">NCOR CCO Summary - October 16</a><br>
 <a href="https://drive.google.com/file/d/1kRiTpkXc4w59aBw331dBYzg1gFG2-FqI/view?usp=drive_link">NCOR CCO Summary - October 23</a><br>
