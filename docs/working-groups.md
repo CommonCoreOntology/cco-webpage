@@ -20,17 +20,31 @@ The CCOWG is chaired by <a href="https://www.linkedin.com/in/giacomodecolle/" cl
 </p>
 
 <p>
-If you would like to attend CCOWG meetings either in person or remotely, please contact Carter at carterbe[at]buffalo.edu.
+If you would like to attend CCOWG meetings either in person or remotely, please contact
+<a href="mailto:info@ncornetwork.org" class="custom-color">info@ncornetwork.org</a>.
 </p>
 
-<h2>IEEE Ontology Standards Working Group (P3195)</h2>
+<h2>IEEE Ontology Standards Working Group</h2>
 
 <p>
-The Common Core Ontologies have been submitted to the Institute of Electrical and Electronics Engineers (IEEE) as part of a proposed standard for defining mid-level ontologies. The proposed standard, <a href="https://standards.ieee.org/ieee/3195/11025/" class="custom-color">IEEE P3195</a>, aims to establish requirements for what qualifies as a mid-level ontology and identifies several candidate ontologies, including CCO.
+The Common Core Ontologies are currently involved in IEEE standards development through two related efforts:
+<a href="https://standards.ieee.org/ieee/3195/11025/" class="custom-color">IEEE P3195</a>, which defines requirements for mid-level ontologies, and IEEE P3195.1, which focuses specifically on the Common Core Ontologies.
 </p>
 
 <p>
-This working group focuses on advancing P3195 toward full approval status. If you would like to participate, please contact the working group chair, James Schoening, at james.schoening@ieee.org.
+These working groups focus on advancing the standards toward full approval status. Inquiries about participation may be directed to
+<a href="mailto:info@ncornetwork.org" class="custom-color">info@ncornetwork.org</a>.
+</p>
+
+<h2>CCO Developers Group</h2>
+
+<p>
+In addition to formal working groups, CCO development is supported by an active Developers Group led by Alexander P. Cox. This group conducts focused development work on ontology content, tooling, and contributor workflows.
+</p>
+
+<p>
+Information about participating in the CCO Developers Group, as well as other engagement opportunities, can be obtained by contacting
+<a href="mailto:info@ncornetwork.org" class="custom-color">info@ncornetwork.org</a>.
 </p>
 
 <h2>Minutes</h2>
