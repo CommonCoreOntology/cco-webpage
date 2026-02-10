@@ -20,19 +20,40 @@
     </style>
 </head>
 <body>
-    <h1>Common Core Ontologies (CCO)</h1>
+<h1>Common Core Ontologies (CCO)</h1>
+
 <p>
-Common Core Ontologies (CCO) is a suite of eleven interoperable ontologies that together form a mid-level ontology. CCO is designed to provide a shared semantic foundation for representing entities, processes, qualities, and information across domains, supporting data standardization, interoperability, reproducibility, and automated reasoning.
+Common Core Ontologies (CCO) is a suite of eleven interoperable ontologies that together form a mid-level ontology. CCO provides a shared semantic foundation for representing entities, processes, qualities, and information across domains, supporting data standardization, interoperability, reproducibility, and automated reasoning in ontology-driven systems.
 <br><br>
-Originally initiated by <a href="https://www.cubrc.org/data-science-information-fusion/specialized-data-ontology-development/" target="_blank">CUBRC, Inc.</a> in 2010 under an IARPA Knowledge Discovery and Dissemination grant, CCO has been widely used within defense and intelligence contexts to support large-scale data integration and analysis. For many years, development and application occurred primarily in closed or mission-specific environments.
+
+Originally initiated by <a href="https://www.cubrc.org/data-science-information-fusion/specialized-data-ontology-development/" target="_blank">CUBRC, Inc.</a> in 2010 under an IARPA Knowledge Discovery and Dissemination grant, CCO has been widely used within defense and intelligence contexts to support large-scale data integration and analysis. For many years, development and application occurred primarily in closed or mission-specific environments, shaped by operational requirements and mission-driven use cases.
 <br><br>
-Since becoming publicly available under a BSD-3 license in 2017, with an open <a href="https://github.com/CommonCoreOntology" target="_blank">GitHub repository</a>, CCO has seen growing adoption and external engagement across research, engineering, and scientific communities. This increased visibility has supported broader collaboration and evaluation of CCO as a reusable semantic foundation.
+
+Since becoming publicly available under a BSD-3 license in 2017, with an open <a href="https://github.com/CommonCoreOntology" target="_blank">GitHub repository</a>, CCO has seen growing adoption and external engagement across research, engineering, and scientific communities. This increased visibility has supported broader collaboration, independent evaluation, and reuse of CCO as a general-purpose semantic foundation.
 <br><br>
-In 2022, the Institute of Electrical and Electronics Engineers (IEEE) <a href="https://standards.ieee.org/ieee/3195/11025/" target="_blank">P3195 working group</a> initiated a review of CCO as part of an effort to define requirements for mid-level ontologies. More recently, in 2024, CCO was endorsed as a baseline standard for formal ontology development across the <a href="https://www.buffalo.edu/ubnow/stories/2024/03/smith-ontology-standard.html" target="_blank">U.S. Department of Defense and Intelligence Community</a>.
+
+In 2022, the Institute of Electrical and Electronics Engineers (IEEE) <a href="https://standards.ieee.org/ieee/3195/11025/" target="_blank">P3195 working group</a> initiated a formal review of CCO as part of an effort to define requirements for mid-level ontologies. More recently, in 2024, CCO was endorsed as a baseline standard for formal ontology development across the <a href="https://www.buffalo.edu/ubnow/stories/2024/03/smith-ontology-standard.html" target="_blank">U.S. Department of Defense and Intelligence Community</a>.
 </p>
-    <h2>Status and Scope</h2>
+
+<h2>Status and Scope</h2>
+
 <p>
-CCO is a maintained, modular mid-level ontology suite intended to support reuse, extension, and alignment across domain ontologies and ontology-driven systems. The core modules are designed to remain stable over time, while domain extensions and application-specific ontologies evolve to meet emerging use cases. Development is ongoing and community-informed, with public documentation and discussion supporting transparent adoption and use.
+CCO is a maintained, modular mid-level ontology suite intended to support reuse, extension, and alignment across domain ontologies and ontology-driven systems. The core modules are designed to remain stable over time, providing a reliable semantic backbone, while domain extensions and application-specific ontologies evolve to meet emerging use cases.
+<br><br>
+
+Development of CCO is ongoing and community-informed. In addition to formal ontology releases, CCO is supported by open documentation, public discussion, and structured engagement activities that help users understand modeling decisions and apply the ontology effectively in real-world contexts.
+</p>
+
+<h2>Community and Use in Practice</h2>
+
+<p>
+The Common Core Ontologies are not only a formal ontology suite, but also the focus of active community engagement aimed at supporting practical use. CCO is developed, discussed, and refined through a combination of open standards work, technical development groups, and user-facing forums.
+<br><br>
+
+These activities are structured to support multiple levels of engagement. New users often begin by attending office hours or consulting documentation to understand how CCO is applied in practice. More experienced users may participate in working groups or developer discussions that focus on extending CCO, aligning it with related ontologies, or contributing to standards efforts.
+<br><br>
+
+Across these activities, emphasis is placed on practical modeling questions, reuse of established design patterns, and transparency around design decisions. This structure allows CCO to remain stable at its core while continuing to evolve in response to new domains, emerging requirements, and interoperability challenges.
 </p>
 
 <h1>Common Core Ontologies</h1>
