@@ -5,44 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Public Extensions of CCO</title>
 
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 1100px;
-            margin: 0 auto;
-            padding: 40px 20px;
-        }
+   <style>
+  table { width: 100%; border-collapse: collapse; margin: 20px 0 40px; }
+  th, td { padding: 12px; border: 1px solid #ddd; text-align: left; vertical-align: top; }
+  th { background-color: #f4f4f4; }
+  tr:nth-child(even) { background-color: #fafafa; }
 
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-bottom: 40px;
-        }
-
-        th, td {
-            padding: 12px;
-            border: 1px solid #ddd;
-            text-align: left;
-            vertical-align: top;
-        }
-
-        th {
-            background-color: #f4f4f4;
-        }
-
-        tr:nth-child(even) {
-            background-color: #fafafa;
-        }
-
-        a {
-            text-decoration: none;
-            color: #1a5fb4;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
+  a { text-decoration: none; }
+  a:hover { text-decoration: underline; }
+</style>
 </head>
 
 <body>
