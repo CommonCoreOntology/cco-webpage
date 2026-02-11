@@ -39,7 +39,7 @@ Provides a high-level overview of the Common Core Ontologies, including their mo
 </strong> (2019)<br/>
 <em>CUBRC, Inc.</em><br/>
 Point of Contact: Alexander P. Cox, Ontologist<br/>
-Introduces a family of space-domain ontologies that extend the Common Core Ontologies to represent spacecraft, space objects, and space-related processes.
+Introduces a family of space-domain ontologies extending CCO to represent spacecraft, space objects, and space-related processes.
 </p>
 
 <p>
@@ -50,7 +50,7 @@ Introduces a family of space-domain ontologies that extend the Common Core Ontol
 </strong> (2017)<br/>
 <em>CUBRC, Inc.</em><br/>
 Point of Contact: Ron Rudnicki, Senior Research Scientist<br/>
-Describes how the Common Core Ontologies model information, including distinctions among information content entities, their bearers, and representational patterns.
+Describes how CCO models information, including distinctions among information content entities, their bearers, and representational patterns.
 </p>
 
 <h2>Journal and Conference Publications</h2>
@@ -63,7 +63,7 @@ Describes how the Common Core Ontologies model information, including distinctio
 </strong> (2024)<br/>
 <em>Mark Jensen; Giacomo De Colle; Sean Kindya; Cameron More; Alexander P. Cox; John Beverley</em><br/>
 Preprint manuscript<br/>
-Presents the architecture, design principles, and intended uses of the Common Core Ontologies as a mid-level ontology suite.
+Presents the architecture, design principles, and intended uses of CCO as a mid-level ontology suite.
 </p>
 
 <p>
@@ -74,7 +74,7 @@ Presents the architecture, design principles, and intended uses of the Common Co
 </strong> (2024)<br/>
 <em>John Beverley; Giacomo De Colle; Mark Jensen; Carter Benson; Barry Smith</em><br/>
 arXiv preprint<br/>
-Proposes necessary and sufficient conditions for collections of ontologies to count as inhabiting a mid-level architecture, using the Common Core Ontologies as a motivating example.
+Proposes necessary and sufficient conditions for collections of ontologies to qualify as inhabiting a mid-level architecture, using CCO as a motivating example.
 </p>
 
 <p>
@@ -84,8 +84,8 @@ Proposes necessary and sufficient conditions for collections of ontologies to co
   </a>
 </strong> (2024)<br/>
 <em>Joe Gregory; Alejandro Salado</em><br/>
-Conference publication (IEEE Aerospace Conference)<br/>
-Presents a Bayesian approach to spacecraft verification planning supported by the Bayesian Verification Ontology Stack (BVOS), leveraging the Common Core Ontologies and Basic Formal Ontology within an ontology-based modeling framework.
+IEEE Aerospace Conference<br/>
+Presents a Bayesian approach to spacecraft verification planning supported by the Bayesian Verification Ontology Stack (BVOS), leveraging CCO and Basic Formal Ontology within an ontology-based modeling framework.
 </p>
 
 <p>
@@ -95,8 +95,8 @@ Presents a Bayesian approach to spacecraft verification planning supported by th
   </a>
 </strong> (2024)<br/>
 <em>Finn Wilson; Regina Hurley; Dan Maxwell; Jon McLellan; John Beverley</em><br/>
-Conference publication (FOIS Workshop on Foundational Ontologies and Models for Interoperability)<br/>
-Develops a foundational ontological characterization of digital twins within the framework of the Common Core Ontologies.
+FOIS Workshop on Foundational Ontologies and Models for Interoperability<br/>
+Develops a foundational ontological characterization of digital twins within the CCO framework.
 </p>
 
 <p>
@@ -106,8 +106,8 @@ Develops a foundational ontological characterization of digital twins within the
   </a>
 </strong> (2024)<br/>
 <em>Nicholas Nicholson; Iztok Štotl</em><br/>
-Journal publication (Frontiers in Computer Science)<br/>
-Proposes a domain-neutral framework integrating ISO/IEC 11179 metadata registry standards with the Common Core Ontologies.
+Frontiers in Computer Science<br/>
+Proposes a domain-neutral framework integrating ISO/IEC 11179 metadata registry standards with CCO.
 </p>
 
 <p>
@@ -117,7 +117,7 @@ Proposes a domain-neutral framework integrating ISO/IEC 11179 metadata registry 
   </a>
 </strong> (2023)<br/>
 <em>Daniel Dunbar; Thomas Hagedorn; Mark Blackburn; John Dzielski; Steven Hespelt; Benjamin Kruse; Dinesh Verma; Zhongyuan Yu</em><br/>
-Journal publication (Systems Engineering)<br/>
+Systems Engineering<br/>
 Introduces the Digital Engineering Framework for Integration and Interoperability (DEFII).
 </p>
 
@@ -142,7 +142,7 @@ Proposes a domain-level ontology of plays for facilitating collaborative autonom
 </strong> (2015)<br/>
 <em>Peter Morosoff; Ron Rudnicki; Jason Bryant; Robert Farrell; Barry Smith</em><br/>
 Approved for Public Release<br/>
-Presents a benchmark ontology aligned with the Common Core Ontologies.
+Presents a benchmark ontology aligned with CCO for military information systems interoperability.
 </p>
 
 <h2>Impact and Recognition</h2>
@@ -154,7 +154,7 @@ Presents a benchmark ontology aligned with the Common Core Ontologies.
   </a>
 </strong> (2024)<br/>
 <em>University at Buffalo Research News</em><br/>
-Reports on the adoption of ontology-based resources aligned with the Common Core Ontologies by U.S. federal agencies.
+Reports on the adoption of ontology-based resources aligned with CCO by U.S. federal agencies.
 </p>
 
 </body>
