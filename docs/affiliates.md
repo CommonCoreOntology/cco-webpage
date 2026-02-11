@@ -39,6 +39,9 @@
 
 <body>
   <div class="container">
+    <p style="text-align: center; max-width: 800px; margin: 0 auto 30px auto;">
+  CCO development and governance are supported through collaboration with academic, government, and industry partners.
+</p>
     <div class="affiliates-grid">
 
       <a href="https://cubrc.org/" target="_blank" rel="noopener noreferrer">
