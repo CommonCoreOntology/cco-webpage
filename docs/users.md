@@ -46,7 +46,7 @@ Together, these examples illustrate how CCO supports semantic interoperability, 
 
 <tr>
 <td></td>
-<td><a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10635/106350F" target="_blank">C3O – Common Core–Based Cyber Ontology</a></td>
+<td><a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10635/106350F/A-common-core-based-cyber-ontology-in-support-of-cross/10.1117/12.2307719.short" target="_blank">C3O – Common Core–Based Cyber Ontology</a></td>
 <td>RDF/OWL-based cyber ontology extending the Common Core Ontologies to support cross-domain situational awareness and interoperability across cyber and operational systems.</td>
 </tr>
 
@@ -64,37 +64,37 @@ Together, these examples illustrate how CCO supports semantic interoperability, 
 
 <tr>
 <td></td>
-<td><a href="https://matportal.org/ontologies/MSEO" target="_blank">Material Science and Engineering Ontology (MSEO)</a></td>
+<td><a href="https://mat-o-lab.github.io/MSEO/" target="_blank">Material Science and Engineering Ontology (MSEO)</a></td>
 <td>Domain ontology extending the Common Core Ontologies to represent materials science experiments, processes, and data.</td>
 </tr>
 
 <tr>
 <td></td>
-<td><a href="https://matportal.org" target="_blank">Mat-O-Lab Brinell Test Ontology</a></td>
+<td><a href="https://github.com/BAMresearch/Ontopanel-BrinellHardnessData" target="_blank">Mat-O-Lab Brinell Test Ontology</a></td>
 <td>Domain ontology representing Brinell hardness testing procedures and results within a CCO-aligned modeling framework.</td>
 </tr>
 
 <tr>
 <td></td>
-<td><a href="https://matportal.org" target="_blank">Mat-O-Lab Tensile Test Ontology</a></td>
+<td><a href="https://ontolearner.readthedocs.io/benchmarking/materials_science_and_engineering/moltensile.html" target="_blank">Mat-O-Lab Tensile Test Ontology</a></td>
 <td>Domain ontology representing tensile testing processes and results using a CCO-aligned modeling framework.</td>
 </tr>
 
 <tr>
 <td></td>
-<td><a href="https://github.com/WorldWideWebConsortium/mydata-ontology" target="_blank">MyData Ontology (MDO)</a></td>
+<td><a href="https://github.com/CommonCoreOntology/my-data-ontology" target="_blank">MyData Ontology (MDO)</a></td>
 <td>Extension of the Common Core Ontologies providing standardized, extensible semantics for representing personal data.</td>
 </tr>
 
 <tr>
 <td></td>
-<td><a href="https://doi.org/10.48550/arXiv.2303.XXXX" target="_blank">Neural Network Event Extraction</a></td>
+<td><a href="https://ieeexplore.ieee.org/document/10786941" target="_blank">Neural Network Event Extraction</a></td>
 <td>Applied use of the CCO Event Ontology module to support neural network-based event extraction.</td>
 </tr>
 
 <tr>
 <td></td>
-<td><a href="https://doi.org/10.48550/arXiv.XXXX" target="_blank">Ontology of Commercial Exchange (OCE)</a></td>
+<td><a href="https://ceur-ws.org/Vol-2518/paper-SOLEE7.pdf" target="_blank">Ontology of Commercial Exchange (OCE)</a></td>
 <td>Domain ontology extending the Common Core Ontologies to represent structured social and economic exchange processes.</td>
 </tr>
 
@@ -112,7 +112,7 @@ Together, these examples illustrate how CCO supports semantic interoperability, 
 
 <tr>
 <td></td>
-<td><a href="https://github.com/CommonCoreOntology/PROV-O-CCO" target="_blank">PROV-O–CCO Mapping</a></td>
+<td><a href="https://www.nature.com/articles/s41597-025-04580-1" target="_blank">PROV-O–CCO Mapping</a></td>
 <td>Ontology mapping aligning the W3C PROV-O provenance ontology with the Common Core Ontologies.</td>
 </tr>
 
@@ -154,13 +154,12 @@ Together, these examples illustrate how CCO supports semantic interoperability, 
 
 <tr>
 <td></td>
-<td><a href="https://www.vimmp.eu" target="_blank">Virtual Materials Marketplace (VIMMP) Ontologies</a></td>
+<td><a href="https://arxiv.org/abs/1912.01519" target="_blank">Virtual Materials Marketplace (VIMMP) Ontologies</a></td>
 <td>Suite of ontologies aligned with the Common Core Ontologies to support semantic interoperability across materials and services.</td>
 </tr>
 
     </tbody>
 </table>
-
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     const rows = document.querySelectorAll('tbody tr');
