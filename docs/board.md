@@ -41,26 +41,38 @@
 </head>
 <body>
     <h1>The Common Core Board of Directors</h1>
-    <p>
-        The <a href="https://github.com/CommonCoreOntology" target="_blank">Common Core Ontologies (CCO)</a> have become, over the last decade, an increasingly important resource for the U.S. Government. This mid-level ontology suite is currently used by dozens of organizations and deployed in critical systems in active operation. Prior to 2023, CCO was developed and maintained by Ron Rudnicki, Mark Jensen, and Alex Cox at CUBRC, Inc., who oversaw successive releases of CCO designed to meet the needs of a growing number of end users. Through the ingenuity and discipline of this team, CCO remained a touchstone for ontology development, reducing the time needed to develop jointly interoperable high-quality domain ontologies aligned to <a href="https://github.com/BFO-ontology/BFO-2020" target="_blank">Basic Formal Ontology (BFO)</a>. As a result, CCO has continued to receive greater adoption, and will become a central component of the DoD IC Ontology Foundry. In particular, both BFO and CCO have been directed for use in the communities as <a href="https://www.buffalo.edu/ubnow/stories/2024/03/smith-ontology-standard.html" target="_blank">baseline standards</a> for ontology development.
-    </p>
-    <p>
-        In recognition of the need for CCO to continue to scale and evolve, future releases of CCO will be overseen by The Common Core Board of Directors, which is composed of representatives from stakeholder organizations who have been involved in CCO development through the past decade. The board will, moreover, be supplemented by a Common Core Developer Group, which will work with the board to ensure the various needs of stakeholders are satisfied. 
-    </p>
-    <p>
-        This board shall be charged with ensuring that CCO is openly available, well-maintained, responsive to user needs and technological and theoretical changes, and independent of any undue influence imposed by a single project or organization. Additionally, the board will pursue:
-    </p>
-    <ul>
-        <li>Funding for maintenance and development of CCO</li>
-        <li>Ensuring that CCO is adopted as an IEEE standard mid-level ontology</li>
-        <li>Creating a developer’s group for CCO that is empowered but subject to clear oversight</li>
-        <li>Organizing conferences, virtual meetings, and so on in service of the CCO community</li>
-        <li>Maturing CCO’s release process and associated documentation</li>
-        <li>Encouraging academic research and the creation of robust, re-useable domain ontologies under CCO</li>
-        <li>Stabilizing CCO to ensure future releases are transparent and mindful of impacts on end users</li>
-        <li>Coordinating with The Industrial Ontology Foundry, The Open Biomedical and Biological Ontology Foundry, and The DoD-IC Ontology Foundry</li>
-        <li>Ensuring that CCO is responsive to the needs of U.S. Government stakeholders</li>
-    </ul>
+
+<p>
+Over the past decade, the <a href="https://github.com/CommonCoreOntology" target="_blank" rel="noopener noreferrer">Common Core Ontologies (CCO)</a> have become a widely used semantic foundation for U.S. Government and research organizations. The suite is currently deployed across multiple organizations and supports large-scale data integration and analysis in operational environments.
+<br><br>
+
+Prior to 2023, CCO was developed and maintained at CUBRC, Inc. by Ron Rudnicki, Mark Jensen, and Alex Cox, who oversaw successive releases aligned to evolving stakeholder requirements. Through sustained technical leadership, CCO remained a stable and widely referenced foundation for ontology development aligned to <a href="https://github.com/BFO-ontology/BFO-2020" target="_blank" rel="noopener noreferrer">Basic Formal Ontology (BFO)</a>.
+<br><br>
+
+As adoption expanded, including its role within the DoD-IC Ontology Foundry and broader standards initiatives, a formal governance structure was established to support long-term stewardship and transparent development. Both BFO and CCO have been directed for use within these communities as <a href="https://www.buffalo.edu/ubnow/stories/2024/03/smith-ontology-standard.html" target="_blank" rel="noopener noreferrer">baseline standards</a> for ontology development.
+</p>
+
+<p>
+CCO releases are now overseen by the Common Core Board of Directors, composed of representatives from stakeholder organizations involved in CCO development and application. The Board is supported by a Common Core Developer Group that works to implement updates, coordinate technical decisions, and respond to community needs.
+<br><br>
+
+The Board is charged with ensuring that CCO remains openly available, well-maintained, responsive to user requirements and technological change, and independent of undue influence from any single project or organization.
+</p>
+
+<p>
+The Board’s responsibilities include:
+</p>
+
+<ul>
+    <li>Securing sustainable funding for CCO maintenance and development</li>
+    <li>Supporting efforts toward IEEE mid-level ontology standardization</li>
+    <li>Maintaining a structured and transparent release process</li>
+    <li>Expanding documentation and developer guidance</li>
+    <li>Encouraging academic research and robust, reusable domain ontology development aligned with CCO</li>
+    <li>Organizing community events, working groups, and forums</li>
+    <li>Coordinating with the Industrial Ontology Foundry, the Open Biomedical and Biological Ontology Foundry, and the DoD-IC Ontology Foundry</li>
+    <li>Ensuring responsiveness to stakeholder and end-user needs</li>
+</ul>
     <div class="divider" style="width: 100%; height: 2px; background-color: #333; margin: 5px 20px;"></div>
     <p style="font-size:25px"><center><b>Common Core Board of Directors</b></center></p>
     <div class="grid-container">
