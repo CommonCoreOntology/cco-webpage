@@ -23,7 +23,7 @@
 <h1>Common Core Ontologies (CCO)</h1>
 
 <p>
-  <strong>The Common Core Ontologies (CCO) are</strong> a modular suite of eleven interoperable ontologies that together provide a shared semantic framework for modeling entities, processes, qualities, and information across domains.
+  The Common Core Ontologies (CCO) are a modular suite of eleven interoperable ontologies that together provide a shared semantic framework for modeling entities, processes, qualities, and information across domains.
   <br><br>
 
   CCO enables different data systems to speak the same language, supporting consistent integration, reuse, and automated reasoning across applications and domains.
