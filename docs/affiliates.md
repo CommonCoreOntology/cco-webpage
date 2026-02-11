@@ -39,7 +39,7 @@
 
 <body>
   <div class="container">
-   <p style="text-align: center; margin: 0 auto 40px auto; font-size: 1.1em;">
+   <p style="text-align: center; margin: 0 auto 40px auto; font-size: 1.1em; white-space: nowrap;">
   CCO development and governance are supported through collaboration with academic, government, and industry partners.
 </p>
     <div class="affiliates-grid">
