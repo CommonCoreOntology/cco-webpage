@@ -34,8 +34,10 @@ nav:
   - Design Patterns:
       - Geospatial Tracking: geospatial-tracking.md
       - Information Model: information.md
-      # - Stasis: stasis.md
-    - CCO Classes and Relations: https://commoncoreontology.github.io/cco-webpage/
+
+  - CCO Classes and Relations:
+      - Official Site: https://commoncoreontology.github.io/cco-webpage/
+
     
 
 extra:
