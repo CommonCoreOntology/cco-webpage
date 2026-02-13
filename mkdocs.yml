@@ -26,18 +26,21 @@ nav:
       - Users: users.md
       - Publications: publications.md
       # - CCO FAQ: cco-faq.md
+
   - Support:
       - Office Hours: office-hours.md
       - Working Groups: working-groups.md
       - Useful Links: useful-links.md
       - Frequently Asked Questions: faq.md
-  - Design Patterns:
-      - Geospatial Tracking: geospatial-tracking.md
-      - Information Model: information.md
+
+  - News: news.md
+
+  # - Design Patterns:
+  #     - Geospatial Tracking: geospatial-tracking.md
+  #     - Information Model: information.md
 
   - CCO Classes and Relations:
       - Classes & Relations: https://tinazunner.github.io/cco-webpage/
-
 
     
 
