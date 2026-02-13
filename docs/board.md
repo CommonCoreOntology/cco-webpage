@@ -107,40 +107,6 @@ The Board’s responsibilities include:
             </div>
         </div>
     </div>
-    <div class="divider" style="width: 100%; height: 2px; background-color: #333; margin: 5px 20px;"></div>
-    <p style="font-size:25px"><center><b>Common Core Developer Group</b></center></p>
-    <div class="grid-container">
-        <div class="grid-item">
-            <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Alan-Ruttenberg-300x225.jpg" alt="Alan Ruttenberg">
-            <div class="grid-item-content">
-                <h3><a href="//creativecommons.org/about/program-areas/open-science">Alan Ruttenberg</a></h3>
-            </div>
-        </div>
-        <div class="grid-item">
-            <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2023/10/Screenshot-2023-10-16-at-12.01.57-AM.png" alt="Cameron More" width="200" height="200">
-            <div class="grid-item-content">
-                <h3><a href="https://www.linkedin.com/in/cameron-more/">Cameron More</a></h3>
-            </div>
-        </div>
-        <div class="grid-item">
-            <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Ron-Rudnicki-300x300.jpg" alt="Ron Rudnicki">
-            <div class="grid-item-content">
-                <h3><a href="https://www.linkedin.com/in/ron-rudnicki-957b004/">Ron Rudnicki</a></h3>
-            </div>
-        </div>
-        <div class="grid-item">
-            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/olivia.png" alt="Olivia Hobai" width="200" height="200">
-            <div class="grid-item-content">
-                <h3><a href="https://www.researchgate.net/profile/Olivia-Hobai">Olivia Hobai</a></h3>
-            </div>
-        </div>
-        <div class="grid-item">
-            <img src="https://raw.githubusercontent.com/CommonCoreOntology/cco-webpage/main/docs/assets/carter.png" alt="Carter Benson" width="200" height="200">
-            <div class="grid-item-content">
-                <h3><a href="https://www.linkedin.com/in/carterbeaubenson/">Carter Benson</a></h3>
-            </div>
-        </div>
-    </div>
 </body>
 </html>
 
