@@ -18,41 +18,6 @@
 This page brings together key publications that document the development, structure, and application of the Common Core Ontologies (CCO). The list is intentionally curated to include only primary technical and scholarly sources that formally present CCO or describe its use in research and applied contexts. Each entry links to an authoritative public source.
 </p>
 
-<h2>CCO White Papers</h2>
-
-<p>
-<strong>
-  <a href="https://philarchive.org/archive/COXTSD-2" class="custom-color">
-    An Overview of the Common Core Ontologies
-  </a>
-</strong> (2019)<br/>
-<em>CUBRC, Inc.</em><br/>
-Point of Contact: Ron Rudnicki, Senior Research Scientist<br/>
-Provides a high-level overview of the Common Core Ontologies, including their modular architecture, scope, and role as a mid-level ontology supporting interoperability across domains.
-</p>
-
-<p>
-<strong>
-  <a href="https://philarchive.org/archive/COXTSD-2" class="custom-color">
-    An Overview of the Common Core Space Domain Ontologies
-  </a>
-</strong> (2019)<br/>
-<em>CUBRC, Inc.</em><br/>
-Point of Contact: Alexander P. Cox, Ontologist<br/>
-Introduces a family of space-domain ontologies extending CCO to represent spacecraft, space objects, and space-related processes.
-</p>
-
-<p>
-<strong>
-  <a href="https://www.nist.gov/system/files/documents/2021/10/14/nist-ai-rfi-cubrc_inc_003.pdf" class="custom-color">
-    Modeling Information with the Common Core Ontologies
-  </a>
-</strong> (2017)<br/>
-<em>CUBRC, Inc.</em><br/>
-Point of Contact: Ron Rudnicki, Senior Research Scientist<br/>
-Describes how CCO models information, including distinctions among information content entities, their bearers, and representational patterns.
-</p>
-
 <h2>Journal and Conference Publications</h2>
 
 <p>
