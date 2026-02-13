@@ -11,7 +11,7 @@
 <h1>Useful Links</h1>
 
 <p>
-This page collects core resources for learning about, working with, and contributing to the Common Core Ontologies (CCO) and Basic Formal Ontology (BFO).
+This page collects core external resources related to the Common Core Ontologies (CCO) and Basic Formal Ontology (BFO).
 </p>
 
 <h2>Core Project Resources</h2>
@@ -34,14 +34,9 @@ This page collects core resources for learning about, working with, and contribu
   </li>
 </ul>
 
-<h2>Community and Standards</h2>
+<h2>Standards and Governance</h2>
 
 <ul>
-  <li>
-    <a href="https://ncor-network.org/docs/events/common-core" class="custom-color">
-      NCOR Common Core Ontologies Working Group
-    </a>
-  </li>
   <li>
     <a href="https://sagroups.ieee.org/oswg/" class="custom-color">
       IEEE Ontology Standards Working Group (OSWG)
