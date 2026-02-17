@@ -51,7 +51,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/CommonCoreOntology/CommonCoreOntologies
     - icon: octicons/mail-16
-      link: mailto:johnbeve@buffalo.edu
+      link: mailto:info@ncornetwork.org
 
 markdown_extensions:
     - attr_list
